@@ -1,0 +1,83 @@
+{
+    "name": "Sales",
+    "children": [
+      {
+        "name": "North America",
+        "children": [
+          {
+            "name": "USA",
+            "children": [
+              {"name": "Electronics", "value": 3200},
+              {"name": "Apparel", "value": 1500},
+              {"name": "Furniture", "value": 900},
+              {"name": "Groceries", "value": 2100}
+            ]
+          },
+          {
+            "name": "Canada",
+            "children": [
+              {"name": "Electronics", "value": 1000},
+              {"name": "Apparel", "value": 700},
+              {"name": "Furniture", "value": 500},
+              {"name": "Groceries", "value": 1200}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Europe",
+        "children": [
+          {
+            "name": "Germany",
+            "children": [
+              {"name": "Electronics", "value": 1800},
+              {"name": "Apparel", "value": 900},
+              {"name": "Furniture", "value": 700},
+              {"name": "Groceries", "value": 1500}
+            ]
+          },
+          {
+            "name": "France",
+            "children": [
+              {"name": "Electronics", "value": 1200},
+              {"name": "Apparel", "value": 800},
+              {"name": "Furniture", "value": 600},
+              {"name": "Groceries", "value": 1000}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Asia",
+        "children": [
+          {
+            "name": "China",
+            "children": [
+              {"name": "Electronics", "value": 2500},
+              {"name": "Apparel", "value": 1000},
+              {"name": "Furniture", "value": 1200},
+              {"name": "Groceries", "value": 1700}
+            ]
+          },
+          {
+            "name": "Japan",
+            "children": [
+              {"name": "Electronics", "value": 1700},
+              {"name": "Apparel", "value": 900},
+              {"name": "Furniture", "value": 800},
+              {"name": "Groceries", "value": 1400}
+            ]
+          },
+          {
+            "name": "India",
+            "children": [
+              {"name": "Electronics", "value": 2000},
+              {"name": "Apparel", "value": 1100},
+              {"name": "Furniture", "value": 1000},
+              {"name": "Groceries", "value": 1600}
+            ]
+          }
+        ]
+      }
+    ]
+  }

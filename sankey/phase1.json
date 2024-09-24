@@ -1,0 +1,41 @@
+{
+    "nodes": [
+      {"name": "iPhone"},
+      {"name": "MacBook"},
+      {"name": "iPad"},
+      {"name": "Watch and AirPods"},
+      {"name": "Products"},
+      {"name": "Services"},
+      {"name": "Revenue"},
+      {"name": "Gross profit"},
+      {"name": "Cost of revenue"},
+      {"name": "Operating profit"},
+      {"name": "Operating expenses"},
+      {"name": "Product costs"},
+      {"name": "Service costs"},
+      {"name": "Net profit"},
+      {"name": "Tax"},
+      {"name": "Other"},
+      {"name": "R&D"},
+      {"name": "SG&A"}
+    ],
+    "links": [
+      {"source": "iPhone", "target": "Products", "value": 205000},
+      {"source": "MacBook", "target": "Products", "value": 40000},
+      {"source": "iPad", "target": "Products", "value": 29000},
+      {"source": "Watch and AirPods", "target": "Products", "value": 41000},
+      {"source": "Products", "target": "Revenue", "value": 316000},
+      {"source": "Services", "target": "Revenue", "value": 78000},
+      {"source": "Revenue", "target": "Gross profit", "value": 171000},
+      {"source": "Revenue", "target": "Cost of revenue", "value": 224000},
+      {"source": "Gross profit", "target": "Operating profit", "value": 119000},
+      {"source": "Gross profit", "target": "Operating expenses", "value": 51000},
+      {"source": "Cost of revenue", "target": "Product costs", "value": 201000},
+      {"source": "Cost of revenue", "target": "Service costs", "value": 22000},
+      {"source": "Operating profit", "target": "Net profit", "value": 100000},
+      {"source": "Operating profit", "target": "Tax", "value": 19000},
+      {"source": "Operating expenses", "target": "R&D", "value": 26000},
+      {"source": "Operating expenses", "target": "SG&A", "value": 25000},
+      {"source": "Operating expenses", "target": "Other", "value": 334}
+    ]
+  }
