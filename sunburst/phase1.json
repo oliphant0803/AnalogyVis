@@ -1,0 +1,70 @@
+{
+    "name": "",
+    "children": [
+      {
+        "name": "Transportation",
+        "children": [
+          {
+            "name": "Flights",
+            "children": [
+              { "name": "Domestic Flights", "value": 500 },
+              { "name": "International Flights", "value": 1200 }
+            ]
+          },
+          {
+            "name": "Ground",
+            "children": [
+              { "name": "Rental Car", "value": 300 },
+              { "name": "Subway", "value": 100 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Accommodation",
+        "children": [
+          {
+            "name": "Traditional Lodging",
+            "children": [
+              { "name": "Motel", "value": 250 },
+              { "name": "Hotel", "value": 600 }
+            ]
+          },
+          {
+            "name": "Airbnb",
+            "children": [
+              { "name": "Shared Apartment", "value": 400 },
+              { "name": "Private Home", "value": 750 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Activities",
+        "children": [
+          {
+            "name": "Restaurants",
+            "children": [
+              { "name": "Fast Food", "value": 120 },
+              { "name": "Casual Dining", "value": 300 }
+            ]
+          },
+          {
+            "name": "Sightseeing",
+            "children": [
+              { "name": "Excursions", "value": 200 },
+              { "name": "Museum", "value": 120 },
+              { "name": "Park", "value": 75 }
+            ]
+          },
+          {
+            "name": "Adventure",
+            "children": [
+              { "name": "Hiking", "value": 50 },
+              { "name": "Diving", "value": 180 }
+            ]
+          }
+        ]
+      }
+    ]
+  }

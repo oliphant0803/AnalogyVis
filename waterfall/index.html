@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>D3.js Waterfall Visualization</title>
+  <style>
+    body {
+      margin: 1rem;
+    }
+    #waterfall {
+      width: 1160px;
+      height: 700px;
+    }
+    text {
+      pointer-events: none;
+    }
+    .bar.start-end {
+      fill: green;
+    }
+    .bar.increase {
+      fill: steelblue;
+    }
+    .bar.decrease {
+      fill: red;
+    }
+    .x.axis path {
+      display: none;
+    }
+    .x.axis line,
+    .y.axis line {
+      stroke: #ccc;
+    }
+    .label {
+      fill: black;
+      font-size: 12px;
+    }
+    .total {
+      fill: black;
+      font-size: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div id="waterfall"></div>
+  <script src="../dist/bundle.js"></script>
+</body>
+</html>

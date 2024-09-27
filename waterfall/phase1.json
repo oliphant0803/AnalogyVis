@@ -1,0 +1,11 @@
+[
+    {"Event": "Starting Revenue", "Effect": 1000, "CumulativeRevenue": 1000},
+    {"Event": "Product A Sales", "Effect": 4000, "CumulativeRevenue": 5000},
+    {"Event": "Product B Sales", "Effect": 3000, "CumulativeRevenue": 8000},
+    {"Event": "Discounts", "Effect": -1000, "CumulativeRevenue": 7000},
+    {"Event": "Product Returns", "Effect": -800, "CumulativeRevenue": 6200},
+    {"Event": "New Customer Acquisitions", "Effect": 2000, "CumulativeRevenue": 8200},
+    {"Event": "Marketing Expenses", "Effect": -1500, "CumulativeRevenue": 6700},
+    {"Event": "Product C Sales", "Effect": 2500, "CumulativeRevenue": 9200},
+    {"Event": "Final Revenue", "Effect": 0, "CumulativeRevenue": 9200}
+  ]
