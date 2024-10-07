@@ -1,0 +1,49 @@
+[
+    { "student": "Student A", "day": "Monday", "value": 100 },
+    { "student": "Student A", "day": "Tuesday", "value": 90 },
+    { "student": "Student A", "day": "Wednesday", "value": 85 },
+    { "student": "Student A", "day": "Thursday", "value": 75 },
+    { "student": "Student A", "day": "Friday", "value": 95 },
+
+    { "student": "Student B", "day": "Monday", "value": 50 },
+    { "student": "Student B", "day": "Tuesday", "value": 65 },
+    { "student": "Student B", "day": "Wednesday", "value": 70 },
+    { "student": "Student B", "day": "Thursday", "value": 60 },
+    { "student": "Student B", "day": "Friday", "value": 65 },
+
+    { "student": "Student C", "day": "Monday", "value": 100 },
+    { "student": "Student C", "day": "Tuesday", "value": 85 },
+    { "student": "Student C", "day": "Wednesday", "value": 90 },
+    { "student": "Student C", "day": "Thursday", "value": 100 },
+    { "student": "Student C", "day": "Friday", "value": 95 },
+
+    { "student": "Student D", "day": "Monday", "value": 95 },
+    { "student": "Student D", "day": "Tuesday", "value": 90 },
+    { "student": "Student D", "day": "Wednesday", "value": 80 },
+    { "student": "Student D", "day": "Thursday", "value": 60 },
+    { "student": "Student D", "day": "Friday", "value": 85 },
+
+    { "student": "Student E", "day": "Monday", "value": 75 },
+    { "student": "Student E", "day": "Tuesday", "value": 85 },
+    { "student": "Student E", "day": "Wednesday", "value": 90 },
+    { "student": "Student E", "day": "Thursday", "value": 75 },
+    { "student": "Student E", "day": "Friday", "value": 85 },
+
+    { "student": "Student F", "day": "Monday", "value": 80 },
+    { "student": "Student F", "day": "Tuesday", "value": 91 },
+    { "student": "Student F", "day": "Wednesday", "value": 85 },
+    { "student": "Student F", "day": "Thursday", "value": 72 },
+    { "student": "Student F", "day": "Friday", "value": 70 },
+
+    { "student": "Student G", "day": "Monday", "value": 85 },
+    { "student": "Student G", "day": "Tuesday", "value": 70 },
+    { "student": "Student G", "day": "Wednesday", "value": 65 },
+    { "student": "Student G", "day": "Thursday", "value": 55 },
+    { "student": "Student G", "day": "Friday", "value": 95 },
+
+    { "student": "Student H", "day": "Monday", "value": 92 },
+    { "student": "Student H", "day": "Tuesday", "value": 99 },
+    { "student": "Student H", "day": "Wednesday", "value": 52 },
+    { "student": "Student H", "day": "Thursday", "value": 62 },
+    { "student": "Student H", "day": "Friday", "value": 65 }
+]

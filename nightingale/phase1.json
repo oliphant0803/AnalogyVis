@@ -1,0 +1,75 @@
+[
+    {
+      "Month": "April",
+      "Zymotic Diseases": 1100,
+      "Wounds & Injuries": 100,
+      "Other Causes": 300
+    },
+    {
+      "Month": "May",
+      "Zymotic Diseases": 950,
+      "Wounds & Injuries": 130,
+      "Other Causes": 500
+    },
+    {
+      "Month": "June",
+      "Zymotic Diseases": 900,
+      "Wounds & Injuries": 160,
+      "Other Causes": 550
+    },
+    {
+      "Month": "July",
+      "Zymotic Diseases": 850,
+      "Wounds & Injuries": 200,
+      "Other Causes": 400
+    },
+    {
+      "Month": "August",
+      "Zymotic Diseases": 800,
+      "Wounds & Injuries": 250,
+      "Other Causes": 400
+    },
+    {
+      "Month": "September",
+      "Zymotic Diseases": 750,
+      "Wounds & Injuries": 300,
+      "Other Causes": 200
+    },
+    {
+      "Month": "October",
+      "Zymotic Diseases": 700,
+      "Wounds & Injuries": 350,
+      "Other Causes": 300
+    },
+    {
+      "Month": "November",
+      "Zymotic Diseases": 650,
+      "Wounds & Injuries": 400,
+      "Other Causes": 200
+    },
+    {
+      "Month": "December",
+      "Zymotic Diseases": 600,
+      "Wounds & Injuries": 450,
+      "Other Causes": 200
+    },
+    {
+      "Month": "January",
+      "Zymotic Diseases": 550,
+      "Wounds & Injuries": 500,
+      "Other Causes": 100
+    },
+    {
+      "Month": "February",
+      "Zymotic Diseases": 500,
+      "Wounds & Injuries": 550,
+      "Other Causes": 150
+    },
+    {
+      "Month": "March",
+      "Zymotic Diseases": 450,
+      "Wounds & Injuries": 600,
+      "Other Causes": 200
+    }
+  ]
+  

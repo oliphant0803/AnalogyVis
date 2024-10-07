@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>D3.js Heatmap Visualization</title>
+  <style>
+    body {
+      margin: 1rem;
+    }
+    #heatmap {
+      width: 1160px;
+      height: 700px;
+    }
+    text {
+      pointer-events: none;
+    }
+
+    .axis text, .legend-axis text {
+        font-family: sans-serif;
+        font-size: 12px;
+      }
+    
+      .legend-axis path, .legend-axis line {
+        display: none;
+      }
+    
+      rect {
+        stroke-width: 1px;
+        stroke: #ccc;
+      }
+  </style>
+</head>
+<body>
+  <div id="heatmap"></div>
+  <script src="../dist/bundle.js"></script>
+</body>
+</html>
