@@ -37,24 +37,26 @@ const root = d3.partition<NodeData>()
 // Now root is of type HierarchyRectangularNode<NodeData>
 
 // Define a color scale for top-level categories
-const color = d3.scaleOrdinal<string>()
-  .domain(root.children ? root.children.map(d => d.data.name) : [])
-  .range(d3.schemeCategory10);
+const nameToColor: { [key: string]: string } = {
+  "Transportation": "#1f77b4",
+  "Accommodation": "#ff7f0e",
+  "Activities": "#2ca02c",
+  // Add other categories as needed
+};
 
-// Function to get the color of a node
 function getColor(d: d3.HierarchyRectangularNode<NodeData>): string {
   if (d.depth === 0) {
-    return '#ccc'; // Root node color
+    return '#ccc';
   }
   if (d.depth === 1) {
-    return color(d.data.name);
+    return nameToColor[d.data.name] || '#000000'; // Default color if name not in mapping
   }
-  
-  // For deeper nodes, derive color from parent
+
+  // Derive color from parent for deeper nodes
   const parentColor = getColor(d.parent!);
   const hsl = d3.hsl(parentColor);
-  hsl.s *= 0.8; // Decrease saturation
-  hsl.l = Math.min(1, hsl.l + 0.1); // Increase lightness
+  hsl.s *= 0.8;
+  hsl.l = Math.min(1, hsl.l + 0.1);
   return hsl.formatHex();
 }
 
