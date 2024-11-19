@@ -1,0 +1,14 @@
+[
+    { "Time": 0, "Luigi": 15, "Mario": 0 },
+    { "Time": 5, "Luigi": 20, "Mario": 5 },
+    { "Time": 10, "Luigi": 16, "Mario": 10 },
+    { "Time": 15, "Luigi": 24, "Mario": 15 },
+    { "Time": 20, "Luigi": 28, "Mario": 15 },
+    { "Time": 25, "Luigi": 15, "Mario": 15 },
+    { "Time": 30, "Luigi": 15, "Mario": 20 },
+    { "Time": 35, "Luigi": 18, "Mario": 26 },
+    { "Time": 40, "Luigi": 22, "Mario": 26 },
+    { "Time": 45, "Luigi": 22, "Mario": 29 },
+    { "Time": 50, "Luigi": 24, "Mario": 32 },
+    { "Time": 55, "Luigi": 24, "Mario": 32 }
+  ]

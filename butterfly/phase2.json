@@ -1,0 +1,63 @@
+[
+    {
+      "nailID": 1,
+      "totalLength": 13,
+      "depthBelowSurface": 6,
+      "lengthAboveSurface": 7
+    },
+    {
+      "nailID": 2,
+      "totalLength": 17,
+      "depthBelowSurface": 8,
+      "lengthAboveSurface": 9
+    },
+    {
+      "nailID": 3,
+      "totalLength": 15,
+      "depthBelowSurface": 10,
+      "lengthAboveSurface": 5
+    },
+    {
+      "nailID": 4,
+      "totalLength": 12,
+      "depthBelowSurface": 5,
+      "lengthAboveSurface": 7
+    },
+    {
+      "nailID": 5,
+      "totalLength": 19,
+      "depthBelowSurface": 14,
+      "lengthAboveSurface": 5
+    },
+    {
+      "nailID": 6,
+      "totalLength": 20,
+      "depthBelowSurface": 11,
+      "lengthAboveSurface": 9
+    },
+    {
+      "nailID": 7,
+      "totalLength": 15,
+      "depthBelowSurface": 9,
+      "lengthAboveSurface": 6
+    },
+    {
+      "nailID": 8,
+      "totalLength": 19,
+      "depthBelowSurface": 8,
+      "lengthAboveSurface": 11
+    },
+    {
+      "nailID": 9,
+      "totalLength": 16,
+      "depthBelowSurface": 12,
+      "lengthAboveSurface": 4
+    },
+    {
+      "nailID": 10,
+      "totalLength": 14,
+      "depthBelowSurface": 8,
+      "lengthAboveSurface": 6
+    }
+  ]
+  

@@ -1,5 +1,5 @@
 import * as d3 from 'd3';
-import data from './phase1.json';
+import data from './phase2.json';
 
 // Interface for the data points
 interface DataPoint {

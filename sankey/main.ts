@@ -1,7 +1,7 @@
 import * as d3 from 'd3';
 import { sankey, sankeyLinkHorizontal } from 'd3-sankey';
 
-import data from './phase1.json';
+import data from './phase2.json';
 
 interface Node {
   name: string;

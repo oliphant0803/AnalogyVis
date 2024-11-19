@@ -1,0 +1,99 @@
+{
+    "name": "",
+    "children": [
+      {
+        "name": "Fiction",
+        "children": [
+          {
+            "name": "Romance",
+            "children": [
+              { "name": "Contemp", "value": 200 },
+              { "name": "Historical", "value": 150 }
+            ]
+          },
+          {
+            "name": "Sci-Fi & Fantasy",
+            "children": [
+              { "name": "Space Opera", "value": 120 },
+              { "name": "Epic", "value": 170 },
+              { "name": "Dystopian", "value": 160 }
+            ]
+          },
+          {
+            "name": "Thrillers",
+            "children": [
+              { "name": "Psychological", "value": 180 },
+              { "name": "Crime", "value": 160 }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Non-Fiction",
+        "children": [
+          {
+            "name": "Bio & Memoir",
+            "children": [
+              { "name": "Political", "value": 140 },
+              { "name": "Celebrities", "value": 130 }
+            ]
+          },
+          {
+            "name": "Business",
+            "children": [
+              { "name": "Entrep", "value": 150 },
+              { "name": "Leadership", "value": 140 }
+            ]
+          },
+          {
+            "name": "Science & Nature",
+            "children": [
+              { "name": "Enviro Sci", "value": 160 },
+              { "name": "Astrophysics", "value": 130 },
+              { "name": "Marine Bio", "value": 125 }
+            ]
+          },
+          { "name": "Cookbooks", "value": 240 }
+        ]
+      },
+      {
+        "name": "Teens",
+        "children": [
+          {
+            "name": "Fantasy",
+            "children": [
+              { "name": "Urban", "value": 100 },
+              { "name": "Dark", "value": 90 }
+            ]
+          },
+          {
+            "name": "Action & Adv",
+            "children": [
+              { "name": "Survival", "value": 110 },
+              { "name": "Time Travel", "value": 95 }
+            ]
+          },
+          { "name": "Manga", "value": 95 }
+        ]
+      },
+      {
+        "name": "Kids",
+        "children": [
+          {
+            "name": "Graphic Novels",
+            "children": [
+              { "name": "Superheroes", "value": 80 },
+              { "name": "Mystery", "value": 75 }
+            ]
+          },
+          {
+            "name": "Early Learning",
+            "children": [
+              { "name": "Animal", "value": 70 },
+              { "name": "Alphabet", "value": 60 }
+            ]
+          }
+        ]
+      }
+    ]
+  }

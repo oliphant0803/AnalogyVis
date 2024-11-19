@@ -1,5 +1,5 @@
 import * as d3 from 'd3';
-import dataJson from './phase1.json';
+import dataJson from './phase2.json';
 
 
 interface Data {
@@ -56,7 +56,7 @@ svg.append("g")
 
 // Y scale and axis
 const yScale = d3.scaleLinear()
-  .domain([minExpense - 10, maxExpense + 10]) // Add some padding
+  .domain([0, 16]) // Add some padding
   .range([height, 0]);
 
 svg.append("g")
@@ -89,12 +89,22 @@ const boxPlotData: BoxPlotData[] = categories.map(category => {
 });
 
 // Define a color scale for categories
+
+
+// const colorScale = d3.scaleOrdinal()
+//   .domain(categories)
+//   .range(d3.schemeCategory10);
+
 const colorScale = d3.scaleOrdinal()
   .domain(categories)
-  .range(d3.schemeCategory10);
+  .range(["#bc8f00", "#791611", "#e2db8d", "#d99703",
+]);
 
 // Draw the box plots
+
+// Define a jitter width to spread the points horizontally
 const boxWidth = xScale.bandwidth() * 0.7; // Adjust as needed
+const jitterWidth = boxWidth * 0.8; // 80% of the box width
 
 svg.selectAll(".boxplot")
   .data(boxPlotData)
@@ -157,8 +167,89 @@ svg.selectAll(".boxplot")
       .enter()
       .append("circle")
       .attr("class", "outlier")
-      .attr("cx", 0)
+      .attr("cx", () => (Math.random() - 0.5) * jitterWidth)
       .attr("cy", (v: number) => yScale(v))
       .attr("r", 3)
       .attr("fill", "red");
+
+    // **Plot data points**
+    const values = numericData[d.category];
+
+    d3.select(this).selectAll(".data-point")
+      .data(values)
+      .enter()
+      .append("circle")
+      .attr("class", "data-point")
+      .attr("cx", () => (Math.random() - 0.5) * jitterWidth)
+      .attr("cy", (v: number) => yScale(v))
+      .attr("r", 3)
+      .attr("fill", "black")
+      .attr("opacity", 0.6);
   });
+
+// svg.selectAll(".boxplot")
+//   .data(boxPlotData)
+//   .enter()
+//   .append("g")
+//   .attr("class", "boxplot")
+//   .attr("transform", d => `translate(${xScale(d.category)! + xScale.bandwidth() / 2},0)`)
+//   .each(function(d) {
+//     // Draw box
+//     d3.select(this)
+//       .append("rect")
+//       .attr("x", -boxWidth / 2)
+//       .attr("y", yScale(d.quartile[2])) // Q3
+//       .attr("width", boxWidth)
+//       .attr("height", yScale(d.quartile[0]) - yScale(d.quartile[2])) // Q1 - Q3
+//       .attr("fill", colorScale(d.category) as string) // Assign color based on category
+//       .attr("stroke", "black");
+
+//     // Draw median line
+//     d3.select(this)
+//       .append("line")
+//       .attr("x1", -boxWidth / 2)
+//       .attr("x2", boxWidth / 2)
+//       .attr("y1", yScale(d.quartile[1])) // Median
+//       .attr("y2", yScale(d.quartile[1]))
+//       .attr("stroke", "black");
+
+//     // Draw whiskers
+//     // Vertical line
+//     d3.select(this)
+//       .append("line")
+//       .attr("x1", 0)
+//       .attr("x2", 0)
+//       .attr("y1", yScale(d.whiskers[0])) // Lower whisker
+//       .attr("y2", yScale(d.whiskers[1])) // Upper whisker
+//       .attr("stroke", "black");
+
+//     // Whisker caps
+//     // Lower whisker cap
+//     d3.select(this)
+//       .append("line")
+//       .attr("x1", -boxWidth / 4)
+//       .attr("x2", boxWidth / 4)
+//       .attr("y1", yScale(d.whiskers[0]))
+//       .attr("y2", yScale(d.whiskers[0]))
+//       .attr("stroke", "black");
+
+//     // Upper whisker cap
+//     d3.select(this)
+//       .append("line")
+//       .attr("x1", -boxWidth / 4)
+//       .attr("x2", boxWidth / 4)
+//       .attr("y1", yScale(d.whiskers[1]))
+//       .attr("y2", yScale(d.whiskers[1]))
+//       .attr("stroke", "black");
+
+//     // Draw outliers
+//     d3.select(this).selectAll(".outlier")
+//       .data(d.outliers)
+//       .enter()
+//       .append("circle")
+//       .attr("class", "outlier")
+//       .attr("cx", 0)
+//       .attr("cy", (v: number) => yScale(v))
+//       .attr("r", 3)
+//       .attr("fill", "red");
+  // });

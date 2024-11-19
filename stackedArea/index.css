@@ -1,0 +1,35 @@
+body {
+    margin: 1rem;
+  }
+  
+  #stackedArea {
+    width: 1160px;
+    height: 700px;
+  }
+  
+  text {
+    pointer-events: none;
+  }
+  
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+  }
+  
+  .x.grid line,
+  .y.grid line {
+    stroke: #e0e0e0;
+    stroke-opacity: 1;
+    shape-rendering: crispEdges;
+  }
+  
+  .layer {
+    stroke: #fff;
+    stroke-width: 1px;
+  }
+  
+  .legend-item text {
+    font-size: 12px;
+  }

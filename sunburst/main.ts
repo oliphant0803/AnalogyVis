@@ -1,5 +1,5 @@
 import * as d3 from 'd3';
-import dataJson from './phase1.json';
+import dataJson from './phase2.json';
 
 // Define the interface for your data
 interface NodeData {
@@ -26,6 +26,16 @@ const svg = d3.select("#sunburst")
   .append("g")
     .attr("transform", `translate(${width / 2},${height / 2})`);
 
+// Function to filter redundant layers
+function removeRedundantChildren(node: NodeData) {
+  if (node.children) {
+    node.children = node.children.filter(child => child.name !== node.name);
+    node.children.forEach(removeRedundantChildren);
+  }
+}
+
+removeRedundantChildren(data); // Remove redundant layers
+
 // Create the root hierarchy and apply the partition layout
 const root = d3.partition<NodeData>()
   .size([2 * Math.PI, radius])(
@@ -34,22 +44,17 @@ const root = d3.partition<NodeData>()
       .sort((a, b) => (b.value || 0) - (a.value || 0))
   );
 
-// Now root is of type HierarchyRectangularNode<NodeData>
-
 // Define a color scale for top-level categories
-const nameToColor: { [key: string]: string } = {
-  "Transportation": "#1f77b4",
-  "Accommodation": "#ff7f0e",
-  "Activities": "#2ca02c",
-  // Add other categories as needed
-};
+const colorScale = d3.scaleOrdinal<string>()
+  .domain(data.children ? data.children.map(d => d.name) : [])
+  .range(d3.schemeCategory10); // Use a predefined color scheme
 
 function getColor(d: d3.HierarchyRectangularNode<NodeData>): string {
   if (d.depth === 0) {
     return '#ccc';
   }
   if (d.depth === 1) {
-    return nameToColor[d.data.name] || '#000000'; // Default color if name not in mapping
+    return colorScale(d.data.name);
   }
 
   // Derive color from parent for deeper nodes
@@ -81,7 +86,7 @@ svg.selectAll('path')
     .text(d => `${d.ancestors().map(d => d.data.name).reverse().join(" / ")}\n${format(d.value || 0)}`);
 
 // Define a threshold to determine small arcs
-const labelThreshold = 0.1; // Adjust this value as needed
+const labelThreshold = 0.1;
 
 // Separate nodes into those suitable for inside labels and those needing outside labels
 const labelNodes = root.descendants().filter(d => d.depth && (d.x1 - d.x0) > labelThreshold);
@@ -113,7 +118,6 @@ svg.selectAll('text')
     .style('fill', '#000');
 
 // Add outside labels and leader lines for small arcs
-// Group for lines and labels
 const outerLabelsGroup = svg.append('g').attr('class', 'outer-labels');
 
 // Add the lines (leader lines)
@@ -121,19 +125,16 @@ outerLabelsGroup.selectAll('polyline')
   .data(smallLabelNodes)
   .enter().append('polyline')
     .attr('points', function(d) {
-      // Calculate the starting point (centroid of the arc)
       const angle = (d.x0 + d.x1) / 2;
       const outerRadius = d.y1 - 2;
 
       const x = Math.cos(angle - Math.PI / 2) * outerRadius;
       const y = Math.sin(angle - Math.PI / 2) * outerRadius;
 
-      // Calculate the end point (label position)
-      const labelRadius = radius + 2; // Position labels 30 pixels outside the outermost radius
+      const labelRadius = radius + 2;
       const lx = Math.cos(angle - Math.PI / 2) * labelRadius;
       const ly = Math.sin(angle - Math.PI / 2) * labelRadius;
 
-      // Return points for the polyline
       return `${x},${y} ${lx},${ly}`;
     })
     .style('fill', 'none')
@@ -146,7 +147,7 @@ outerLabelsGroup.selectAll('text')
   .enter().append('text')
     .attr('transform', function(d) {
       const angle = (d.x0 + d.x1) / 2;
-      const labelRadius = radius + 5; // Slightly further out than the line end
+      const labelRadius = radius + 5;
 
       const x = Math.cos(angle - Math.PI / 2) * labelRadius;
       const y = Math.sin(angle - Math.PI / 2) * labelRadius;
@@ -155,7 +156,6 @@ outerLabelsGroup.selectAll('text')
     })
     .attr('text-anchor', function(d) {
       const angle = (d.x0 + d.x1) / 2 * 180 / Math.PI;
-      // Adjust text anchor based on label position
       return angle > 180 ? 'end' : 'start';
     })
     .attr('alignment-baseline', 'middle')

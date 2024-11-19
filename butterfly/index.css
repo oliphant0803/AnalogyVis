@@ -1,0 +1,31 @@
+.grid line {
+    stroke: lightgrey;
+    stroke-opacity: 0.7;
+    shape-rendering: crispEdges;
+  }
+  
+  .grid path {
+    stroke-width: 0;
+  }
+  
+  .bar-depth {
+    fill: steelblue;
+  }
+  
+  .bar-length {
+    fill: orange;
+  }
+  
+  .label-depth, .label-length {
+    font-size: 12px;
+    pointer-events: none;
+  }
+  
+  .axis text {
+    font-size: 12px;
+  }
+  
+  .axis path,
+  .axis line {
+    stroke: black;
+  }

@@ -1,0 +1,134 @@
+[
+    {
+        "row": 1,
+        "columns": [
+            {
+                "column": 1,
+                "grid": "A",
+                "zoneTemperature": 30,
+                "itemsCategory": "Chemicals",
+                "name": "Industrial solvents, adhesives"
+            },
+            {
+                "column": 2,
+                "grid": "A",
+                "zoneTemperature": 50,
+                "itemsCategory": "Textiles",
+                "name": "Heat-resistant fabrics, specialized textiles"
+            },
+            {
+                "column": 3,
+                "grid": "A",
+                "zoneTemperature": 60,
+                "itemsCategory": "Bakery",
+                "name": "Oven-baked breads, pastries, hot meals"
+            },
+            {
+                "column": 4,
+                "grid": "A",
+                "zoneTemperature": 40,
+                "itemsCategory": "Metalworks",
+                "name": "Heat-treated steel parts, metal alloys"
+            }
+        ]
+    },
+    {
+        "row": 2,
+        "columns": [
+            {
+                "column": 1,
+                "grid": "B",
+                "zoneTemperature": -20,
+                "itemsCategory": "Frozen Foods",
+                "name": "Frozen vegetables, ice cream, frozen pizzas"
+            },
+            {
+                "column": 2,
+                "grid": "B",
+                "zoneTemperature": -10,
+                "itemsCategory": "Dairy",
+                "name": "Milk, cheese, yogurt"
+            },
+            {
+                "column": 3,
+                "grid": "B",
+                "zoneTemperature": 22,
+                "itemsCategory": "Snacks",
+                "name": "Potato chips, cereal, packaged cookies"
+            },
+            {
+                "column": 4,
+                "grid": "B",
+                "zoneTemperature": 6,
+                "itemsCategory": "Beverages",
+                "name": "Bottled water, soda, boxed juices"
+            }
+        ]
+    },
+    {
+        "row": 3,
+        "columns": [
+            {
+                "column": 1,
+                "grid": "C",
+                "zoneTemperature": 10,
+                "itemsCategory": "Produce",
+                "name": "Apples, bananas, leafy greens"
+            },
+            {
+                "column": 2,
+                "grid": "C",
+                "zoneTemperature": -2,
+                "itemsCategory": "Meat",
+                "name": "Chicken, beef, cold cuts"
+            },
+            {
+                "column": 3,
+                "grid": "C",
+                "zoneTemperature": 22,
+                "itemsCategory": "Cleaning",
+                "name": "Detergents, soap, cleaning sprays"
+            },
+            {
+                "column": 4,
+                "grid": "C",
+                "zoneTemperature": 30,
+                "itemsCategory": "Grain Foods",
+                "name": "Bread, muffins, cakes"
+            }
+        ]
+    },
+    {
+        "row": 4,
+        "columns": [
+            {
+                "column": 1,
+                "grid": "D",
+                "zoneTemperature": 45,
+                "itemsCategory": "Machinery",
+                "name": "Engine parts, high-temperature machinery"
+            },
+            {
+                "column": 2,
+                "grid": "D",
+                "zoneTemperature": 35,
+                "itemsCategory": "Electronics",
+                "name": "Circuit boards, electrical components"
+            },
+            {
+                "column": 3,
+                "grid": "D",
+                "zoneTemperature": 38,
+                "itemsCategory": "Tools",
+                "name": "Soldering irons, welding tools"
+            },
+            {
+                "column": 4,
+                "grid": "D",
+                "zoneTemperature": 20,
+                "itemsCategory": "Paints",
+                "name": "Cans of paint, varnish, sealants"
+            }
+        ]
+    }
+]
