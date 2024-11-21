@@ -56,7 +56,7 @@ const graph = sankeyGenerator({
 
 // Define the format function
 const formatNumber = d3.format(',');
-const format = (d: number) => '$' + formatNumber(d) + 'M';
+const format = (d: number) => formatNumber(d);
 
 // Draw links
 svg
@@ -124,12 +124,12 @@ nodeLabels
   .text((d) => d.name);
 
 // Append node value (second line)
-nodeLabels
-  .append('tspan')
-  .attr('class', 'node-value')
-  // .attr('x', function () {
-  //   return (d3.select(this.parentNode).attr('x') as unknown) as number;
-  // })
-  .attr('dy', '1.2em') // Move down to the next line
-  .style('font-size', '10px') // Smaller font size
-  .text((d) => format(d.value || 0));
+// nodeLabels
+//   .append('tspan')
+//   .attr('class', 'node-value')
+//   // .attr('x', function () {
+//   //   return (d3.select(this.parentNode).attr('x') as unknown) as number;
+//   // })
+//   .attr('dy', '1.2em') // Move down to the next line
+//   .style('font-size', '10px') // Smaller font size
+//   .text((d) => format(d.value || 0));

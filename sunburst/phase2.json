@@ -1,99 +1,74 @@
 {
-    "name": "",
-    "children": [
-      {
-        "name": "Fiction",
-        "children": [
-          {
-            "name": "Romance",
-            "children": [
-              { "name": "Contemp", "value": 200 },
-              { "name": "Historical", "value": 150 }
-            ]
-          },
-          {
-            "name": "Sci-Fi & Fantasy",
-            "children": [
-              { "name": "Space Opera", "value": 120 },
-              { "name": "Epic", "value": 170 },
-              { "name": "Dystopian", "value": 160 }
-            ]
-          },
-          {
-            "name": "Thrillers",
-            "children": [
-              { "name": "Psychological", "value": 180 },
-              { "name": "Crime", "value": 160 }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Non-Fiction",
-        "children": [
-          {
-            "name": "Bio & Memoir",
-            "children": [
-              { "name": "Political", "value": 140 },
-              { "name": "Celebrities", "value": 130 }
-            ]
-          },
-          {
-            "name": "Business",
-            "children": [
-              { "name": "Entrep", "value": 150 },
-              { "name": "Leadership", "value": 140 }
-            ]
-          },
-          {
-            "name": "Science & Nature",
-            "children": [
-              { "name": "Enviro Sci", "value": 160 },
-              { "name": "Astrophysics", "value": 130 },
-              { "name": "Marine Bio", "value": 125 }
-            ]
-          },
-          { "name": "Cookbooks", "value": 240 }
-        ]
-      },
-      {
-        "name": "Teens",
-        "children": [
-          {
-            "name": "Fantasy",
-            "children": [
-              { "name": "Urban", "value": 100 },
-              { "name": "Dark", "value": 90 }
-            ]
-          },
-          {
-            "name": "Action & Adv",
-            "children": [
-              { "name": "Survival", "value": 110 },
-              { "name": "Time Travel", "value": 95 }
-            ]
-          },
-          { "name": "Manga", "value": 95 }
-        ]
-      },
-      {
-        "name": "Kids",
-        "children": [
-          {
-            "name": "Graphic Novels",
-            "children": [
-              { "name": "Superheroes", "value": 80 },
-              { "name": "Mystery", "value": 75 }
-            ]
-          },
-          {
-            "name": "Early Learning",
-            "children": [
-              { "name": "Animal", "value": 70 },
-              { "name": "Alphabet", "value": 60 }
-            ]
-          }
-        ]
-      }
-    ]
-  }
+  "name": "",
+  "children": [
+    {
+      "name": "Science",
+      "children": [
+        {
+          "name": "Biological Sci",
+          "children": [
+            { "name": "Medical Sci", "value": 120 },
+            { "name": "Life Sci", "value": 125 }
+          ]
+        },
+        {
+          "name": "Physical Sci",
+          "children": [
+            { "name": "Physics", "value": 100 },
+            { "name": "Chemistry", "value": 105 },
+            { "name": "Earth Sci", "value": 95 }
+          ]
+        },
+        {
+          "name": "Math & CS",
+          "children": [
+            { "name": "Mathematics", "value": 90 },
+            { "name": "Computer Sci", "value": 115 },
+            { "name": "Statistics", "value": 110 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Business",
+      "children": [
+        {
+          "name": "Administration",
+          "children": [
+            { "name": "Management", "value": 80 },
+            { "name": "Marketing", "value": 70 }
+          ]
+        },
+        {
+          "name": "Finance & Accounting",
+          "children": [
+            { "name": "Finance", "value": 85 },
+            { "name": "Accounting", "value": 75 }
+          ]
+        },
+        { "name": "Commerce", "value": 60 }
+      ]
+    },
+    {
+      "name": "Arts",
+      "children": [
+        {
+          "name": "Fine Arts",
+          "children": [
+            { "name": "Painting", "value": 50 },
+            { "name": "Sculpture", "value": 45 }
+          ]
+        },
+        {
+          "name": "Performing",
+          "children": [
+            { "name": "Theater", "value": 40 },
+            { "name": "Dance", "value": 35 },
+            { "name": "Music", "value": 55 }
+          ]
+        },
+        { "name": "Literature", "value": 65 }
+      ]
+    }
+  ]
+}
