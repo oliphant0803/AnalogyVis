@@ -47,7 +47,8 @@ const keys = [
 const color = d3
   .scaleOrdinal<string>()
   .domain(keys)
-  .range(['#675d53', '#835d3c', '#a86431', '#c48c41', '#974412', '#679f00']);
+  // .range(['#675d53', '#835d3c', '#a86431', '#c48c41', '#974412', '#679f00']);
+  .range(['#1b9e77', '#d95f02', '#7570b3', '#e7298a', '#66a61e', '#e6ab02']);
 
 // Create the stack generator and reverse the order to start from "Organic Layer"
 const stack = d3
