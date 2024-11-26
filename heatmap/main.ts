@@ -132,3 +132,29 @@ legend.append('g')
   .attr('class', 'legend-axis')
   .attr('transform', `translate(${legendWidth-15}, 0)`)
   .call(legendAxis);
+
+// Draw heatmap rectangles
+svg.selectAll('.cell')
+  .data(data)
+  .enter()
+  .append('rect')
+  .attr('class', 'cell')
+  .attr('x', d => xScale(d.column.toString()) as number)
+  .attr('y', d => yScale(d.grid) as number)
+  .attr('width', xScale.bandwidth())
+  .attr('height', yScale.bandwidth())
+  .style('fill', d => colorScale(d.zoneTemperature))
+  .style('stroke', 'black');
+
+// Add text labels for itemCategory
+svg.selectAll('.label')
+  .data(data)
+  .enter()
+  .append('text')
+  .attr('x', d => (xScale(d.column.toString()) as number) + xScale.bandwidth() / 2)
+  .attr('y', d => (yScale(d.grid) as number) + yScale.bandwidth() / 2)
+  .attr('dy', '.35em') // vertical alignment
+  .text(d => d.itemsCategory)
+  .attr('text-anchor', 'middle')
+  .style('fill', 'black') // Text color, adjust based on readability
+  .style('font-size', '15px'); // Font size, adjust for better fit

@@ -21,7 +21,7 @@ const x = d3.scaleLinear()
   .range([margin.left, width - margin.right]);
 
 const y = d3.scaleLinear()
-  .domain(d3.extent(data, d => d.dec) as [number, number])
+  .domain([0, d3.max(data, d => d.dec) as number])
   .range([height - margin.bottom, margin.top]);
 
 // Define a scale for circle sizes based on brightness
@@ -31,7 +31,7 @@ const size = d3.scaleLinear()
 
 // Create axes
 const xAxis = d3.axisBottom(x);
-const yAxis = d3.axisLeft(y);
+const yAxis = d3.axisLeft(y).ticks(15); // Set the number of ticks; adjust based on your desired range and step
 
 // Add X axis
 svg.append('g')

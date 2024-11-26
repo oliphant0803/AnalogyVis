@@ -34,9 +34,13 @@ svg.append('g')
   .attr('height', (d) => height - y(d['Frequency']))
   .attr('fill', '#69b3a2');
 
-// Add y-axis with linear scale
+// Add y-axis with integer ticks
 svg.append('g')
-  .call(d3.axisLeft(y))
+  .call(
+    d3.axisLeft(y)
+      .ticks(d3.max(data, (d) => d['Frequency'])) // Set the number of ticks to the maximum frequency value
+      .tickFormat(d3.format('d')) // Format ticks to be integer
+  )
   .selectAll('text')
   .style('font-size', '14px');
 
