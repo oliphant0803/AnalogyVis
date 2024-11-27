@@ -55,16 +55,16 @@
         {
           "name": "Fine Arts",
           "children": [
-            { "name": "Painting", "value": 50 },
-            { "name": "Sculpture", "value": 45 }
+            { "name": "Painting", "value": 55 },
+            { "name": "Sculpture", "value": 40 }
           ]
         },
         {
           "name": "Performing",
           "children": [
             { "name": "Theater", "value": 40 },
-            { "name": "Dance", "value": 35 },
-            { "name": "Music", "value": 55 }
+            { "name": "Dance", "value": 45 },
+            { "name": "Music", "value": 30 }
           ]
         },
         { "name": "Literature", "value": 65 }

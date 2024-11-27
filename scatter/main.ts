@@ -17,7 +17,7 @@ const data = dataJson;
 
 // Define scales
 const x = d3.scaleLinear()
-  .domain(d3.extent(data, d => d.ra) as [number, number])
+  .domain([0, d3.max(data, d => d.ra) as number])
   .range([margin.left, width - margin.right]);
 
 const y = d3.scaleLinear()
@@ -30,25 +30,30 @@ const size = d3.scaleLinear()
   .range([5, 30]); // Larger variation: smallest to largest size of dots
 
 // Create axes
-const xAxis = d3.axisBottom(x);
-const yAxis = d3.axisLeft(y).ticks(15); // Set the number of ticks; adjust based on your desired range and step
+const xAxis = d3.axisBottom(x).ticks(10).tickFormat(d3.format(".0f"));
+const yAxis = d3.axisLeft(y).ticks(15);
 
 // Add X axis
 svg.append('g')
   .attr('transform', `translate(0, ${height - margin.bottom})`)
   .call(xAxis)
+  .call(g => g.selectAll(".domain, .tick line").style("stroke-width", "2px")) // Increase line width
+  .call(g => g.selectAll(".tick text").style("font-size", "14px")) // Increase tick label font size
   .append('text')
   .attr('x', width - margin.right)
   .attr('y', 35)
   .attr('fill', '#000')
   .attr('text-anchor', 'end')
   .attr('font-weight', 'bold')
+  .attr('font-size', '16px') // Change font size
   .text('Right Ascension (°)');
 
 // Add Y axis
 svg.append('g')
   .attr('transform', `translate(${margin.left}, 0)`)
   .call(yAxis)
+  .call(g => g.selectAll(".domain, .tick line").style("stroke-width", "2px")) // Increase line width
+  .call(g => g.selectAll(".tick text").style("font-size", "12px")) // Increase tick label font size
   .append('text')
   .attr('transform', 'rotate(-90)')
   .attr('x', -margin.top)
@@ -57,6 +62,7 @@ svg.append('g')
   .attr('fill', '#000')
   .attr('text-anchor', 'end')
   .attr('font-weight', 'bold')
+  .attr('font-size', '16px') // Change font size
   .text('Declination (°)');
 
 // Draw scatter plot
