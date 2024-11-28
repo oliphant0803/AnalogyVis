@@ -26,7 +26,7 @@ const svg = d3.select('#waterfall')
 
 // Compute the startValue and endValue for each bar
 dataset.forEach((d, i) => {
-  if (i === 0 || i === dataset.length - 1) {
+  if (i === 0) {
     d.startValue = 0;
     d.endValue = d.CumulativeRevenue;
   } else {
@@ -68,12 +68,17 @@ svg.selectAll('.bar')
 svg.append('g')
   .attr('class', 'x axis')
   .attr('transform', `translate(0,${height})`)
-  .call(d3.axisBottom(xScale));
+  .call(d3.axisBottom(xScale))
+  .selectAll('text')  // Select all x-axis labels
+  .style('font-size', '14px'); // Set font size
 
 // Add the Y Axis
 svg.append('g')
   .attr('class', 'y axis')
-  .call(d3.axisLeft(yScale));
+  .call(d3.axisLeft(yScale))
+  .selectAll('text')  // Select all y-axis labels
+  .style('font-size', '20px'); // Set font size
+
 
 // Add labels on top of bars (Effects)
 svg.selectAll('.label')
@@ -84,7 +89,8 @@ svg.selectAll('.label')
   .attr('x', d => xScale(d.Event)! + xScale.bandwidth() / 2)
   .attr('y', d => yScale(Math.max(d.startValue!, d.endValue!)) - 5)
   .attr('text-anchor', 'middle')
-  .text(d => (d.Effect >= 0 ? '+' : '') + d3.format(",")(d.Effect));
+  .text(d => (d.Effect >= 0 ? '+' : '') + d3.format(",")(d.Effect))
+  .style('font-size', '20px');
 
 // Add labels for cumulative totals
 // svg.selectAll('.total')

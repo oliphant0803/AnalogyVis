@@ -47,8 +47,8 @@ const keys = [
 const color = d3
   .scaleOrdinal<string>()
   .domain(keys)
-  // .range(['#675d53', '#835d3c', '#a86431', '#c48c41', '#974412', '#679f00']);
-  .range(['#1b9e77', '#d95f02', '#7570b3', '#e7298a', '#66a61e', '#e6ab02']);
+  .range(['#675d53', '#835d3c', '#a86431', '#c48c41', '#974412', '#679f00']);
+  // .range(['#1b9e77', '#d95f02', '#7570b3', '#e7298a', '#66a61e', '#e6ab02']);
 
 // Create the stack generator and reverse the order to start from "Organic Layer"
 const stack = d3
@@ -116,7 +116,9 @@ svg
   .append('g')
   .attr('class', 'x axis')
   .attr('transform', `translate(0, ${height})`)
-  .call(xAxis);
+  .call(xAxis)
+  .selectAll('text')  // Select all x-axis labels
+  .style('font-size', '20px'); // Set font size
 
 // Add X gridlines
 svg
@@ -137,7 +139,8 @@ svg
 const yAxis = d3.axisLeft(y);
 
 // Add the Y axis
-svg.append('g').attr('class', 'y axis').call(yAxis);
+svg.append('g').attr('class', 'y axis').call(yAxis).selectAll('text')  // Select all x-axis labels
+.style('font-size', '20px'); // Set font size
 
 // Add Y gridlines
 // svg
@@ -164,11 +167,11 @@ svg
 svg
   .append('text')
   .attr('transform', 'rotate(-90)')
-  .attr('y', 0 - margin.left + 15)
+  .attr('y', 0 - margin.left)
   .attr('x', 0 - height / 2)
   .attr('dy', '1em')
   .style('text-anchor', 'middle')
-  .text('Thickness');
+  .text('Thickness (cm)');
 
 // Position the legend to the right of the chart
 const legend = svg

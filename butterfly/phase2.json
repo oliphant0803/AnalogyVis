@@ -58,6 +58,12 @@
       "totalLength": 14,
       "depthBelowSurface": 8,
       "lengthAboveSurface": 6
+    },
+    {
+      "nailID": 11,
+      "totalLength": 0,
+      "depthBelowSurface": 0,
+      "lengthAboveSurface": 0
     }
   ]
   

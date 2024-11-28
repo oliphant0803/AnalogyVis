@@ -6,7 +6,5 @@
     {"Event": "Mushroom Boost 2", "Effect": 5, "CumulativeRevenue": 25},
     {"Event": "Piranha Plant", "Effect": -10, "CumulativeRevenue": 15},
     {"Event": "Goomba Attack 2", "Effect": -3, "CumulativeRevenue": 12},
-    {"Event": "Final Height", "Effect": 2, "CumulativeRevenue": 14},
-    {"Event": "Penalty", "Effect": 0, "CumulativeRevenue": 0},
-    {"Event": "Bonus", "Effect": 0, "CumulativeRevenue": 0}
+    {"Event": "Final Height", "Effect": 2, "CumulativeRevenue": 14}
   ]
