@@ -38,14 +38,14 @@ svg.append('g')
   .attr('transform', `translate(0, ${height - margin.bottom})`)
   .call(xAxis)
   .call(g => g.selectAll(".domain, .tick line").style("stroke-width", "2px")) // Increase line width
-  .call(g => g.selectAll(".tick text").style("font-size", "14px")) // Increase tick label font size
+  .call(g => g.selectAll(".tick text").style("font-size", "20px")) // Increase tick label font size
   .append('text')
   .attr('x', width - margin.right)
-  .attr('y', 35)
+  .attr('y', 45)
   .attr('fill', '#000')
   .attr('text-anchor', 'end')
   .attr('font-weight', 'bold')
-  .attr('font-size', '16px') // Change font size
+  .attr('font-size', '25px') // Change font size
   .text('Right Ascension (°)');
 
 // Add Y axis
@@ -53,16 +53,16 @@ svg.append('g')
   .attr('transform', `translate(${margin.left}, 0)`)
   .call(yAxis)
   .call(g => g.selectAll(".domain, .tick line").style("stroke-width", "2px")) // Increase line width
-  .call(g => g.selectAll(".tick text").style("font-size", "12px")) // Increase tick label font size
+  .call(g => g.selectAll(".tick text").style("font-size", "20px")) // Increase tick label font size
   .append('text')
   .attr('transform', 'rotate(-90)')
   .attr('x', -margin.top)
-  .attr('y', -45)
+  .attr('y', -60)
   .attr('dy', '.71em')
   .attr('fill', '#000')
   .attr('text-anchor', 'end')
   .attr('font-weight', 'bold')
-  .attr('font-size', '16px') // Change font size
+  .attr('font-size', '25px') // Change font size
   .text('Declination (°)');
 
 // Draw scatter plot
@@ -74,7 +74,7 @@ svg.append('g')
     .attr('cx', d => x(d.ra))
     .attr('cy', d => y(d.dec))
     .attr('r', d => size(d.brightness))
-    .style('fill', '#69b3a2')
+    .style('fill', '#000000')
     .style('opacity', 0.7)
     .attr('stroke', 'black');
 

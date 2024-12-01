@@ -9,7 +9,7 @@ interface DataItem {
 
 // Define the dimensions of the SVG container, adjusting the margins to make space for the legend
 const margin = { top: 20, right: 150, bottom: 50, left: 60 };
-const width = 1160 - margin.left - margin.right;
+const width = 1360 - margin.left - margin.right;
 const height = 700 - margin.top - margin.bottom;
 
 // Append the SVG object to the div with id="stackedArea"
@@ -118,7 +118,7 @@ svg
   .attr('transform', `translate(0, ${height})`)
   .call(xAxis)
   .selectAll('text')  // Select all x-axis labels
-  .style('font-size', '20px'); // Set font size
+  .style('font-size', '25px'); // Set font size
 
 // Add X gridlines
 svg
@@ -140,7 +140,7 @@ const yAxis = d3.axisLeft(y);
 
 // Add the Y axis
 svg.append('g').attr('class', 'y axis').call(yAxis).selectAll('text')  // Select all x-axis labels
-.style('font-size', '20px'); // Set font size
+.style('font-size', '25px'); // Set font size
 
 // Add Y gridlines
 // svg

@@ -14,7 +14,7 @@ const dataset: DataPoint[] = data;
 
 // Set up the SVG canvas dimensions
 const margin = { top: 20, right: 20, bottom: 100, left: 60 };
-const width = 1060 - margin.left - margin.right;
+const width = 1260 - margin.left - margin.right;
 const height = 700 - margin.top - margin.bottom;
 
 const svg = d3.select('#waterfall')
