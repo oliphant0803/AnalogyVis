@@ -1,0 +1,1182 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Consent,Age,Gender,Education,Profession,Chart Experience 1,Chart Experience 3,VARK 1,VARK 2,VARK 3,VARK 4,VARK 5,VARK 6,VARK 7,VARK 8,VARK 9,VARK 10,VARK 11,VARK 12,VARK 13,VARK 14,VARK 15,VARK 16,Intro,Timer Validation _First Click,Timer Validation _Last Click,Timer Validation _Page Submit,Timer Validation _Click Count,How to record audio,Audio Test,Timer Validation_First Click,Timer Validation_Last Click,Timer Validation_Page Submit,Timer Validation_Click Count,How to sketch_Id,How to sketch_Name,How to sketch_Size,How to sketch_Type,Timer Start_First Click,Timer Start_Last Click,Timer Start_Page Submit,Timer Start_Click Count,Demographic,Timer Q1_First Click,Timer Q1_Last Click,Timer Q1_Page Submit,Timer Q1_Click Count,Timer Q2_First Click,Timer Q2_Last Click,Timer Q2_Page Submit,Timer Q2_Click Count,Identification,TImer Q4_First Click,TImer Q4_Last Click,TImer Q4_Page Submit,TImer Q4_Click Count,Simple Calculation,Timer Q4_First Click,Timer Q4_Last Click,Timer Q4_Page Submit,Timer Q4_Click Count,Timer Q5_First Click,Timer Q5_Last Click,Timer Q5_Page Submit,Timer Q5_Click Count,Timer Q6_First Click,Timer Q6_Last Click,Timer Q6_Page Submit,Timer Q6_Click Count,Timer Q7_First Click,Timer Q7_Last Click,Timer Q7_Page Submit,Timer Q7_Click Count,Timer Q8_First Click,Timer Q8_Last Click,Timer Q8_Page Submit,Timer Q8_Click Count,StackedAreaAnalogy_Id,StackedAreaAnalogy_Name,StackedAreaAnalogy_Size,StackedAreaAnalogy_Type,Comprehension-A_12,Understanding-A_12,Confidence-A_12,Mental Demand-A_12,Temporal Demand-A_12,Effort-A_12,Frustration-A_12,Timer Start_First Click,Timer Start_Last Click,Timer Start_Page Submit,Timer Start_Click Count,Demographic,Timer Q1_First Click,Timer Q1_Last Click,Timer Q1_Page Submit,Timer Q1_Click Count,Timer Q2_First Click,Timer Q2_Last Click,Timer Q2_Page Submit,Timer Q2_Click Count,Identification,Timer Q3_First Click,Timer Q3_Last Click,Timer Q3_Page Submit,Timer Q3_Click Count,Simple Calculation,Timer Q4_First Click,Timer Q4_Last Click,Timer Q4_Page Submit,Timer Q4_Click Count,Timer Q5_First Click,Timer Q5_Last Click,Timer Q5_Page Submit,Timer Q5_Click Count,Timer 6_First Click,Timer 6_Last Click,Timer 6_Page Submit,Timer 6_Click Count,TImer 7_First Click,TImer 7_Last Click,TImer 7_Page Submit,TImer 7_Click Count,Timer 8_First Click,Timer 8_Last Click,Timer 8_Page Submit,Timer 8_Click Count,StackedAreaBaseline_Id,StackedAreaBaseline_Name,StackedAreaBaseline_Size,StackedAreaBaseline_Type,Comprehension-B_12,Understanding-B_12,Confidence-B_12,Mental Demand-B_12,Temporal Demand-B_12,Effort-B_12,Frustration-B_12,Timer Start_First Click,Timer Start_Last Click,Timer Start_Page Submit,Timer Start_Click Count,Demographic,Timer Q1_First Click,Timer Q1_Last Click,Timer Q1_Page Submit,Timer Q1_Click Count,Timer Q2_First Click,Timer Q2_Last Click,Timer Q2_Page Submit,Timer Q2_Click Count,Identification,Timer Q3_First Click,Timer Q3_Last Click,Timer Q3_Page Submit,Timer Q3_Click Count,Simple Calculation,Timer Q4_First Click,Timer Q4_Last Click,Timer Q4_Page Submit,Timer Q4_Click Count,Timer Q5_First Click,Timer Q5_Last Click,Timer Q5_Page Submit,Timer Q5_Click Count,Timer Q6_First Click,Timer Q6_Last Click,Timer Q6_Page Submit,Timer Q6_Click Count,Timer Q7_First Click,Timer Q7_Last Click,Timer Q7_Page Submit,Timer Q7_Click Count,Timer 8_First Click,Timer 8_Last Click,Timer 8_Page Submit,Timer 8_Click Count,Waterfall Analogy _Id,Waterfall Analogy _Name,Waterfall Analogy _Size,Waterfall Analogy _Type,Timer Start_First Click,Timer Start_Last Click,Timer Start_Page Submit,Timer Start_Click Count,Demographic,Timer 1_First Click,Timer 1_Last Click,Timer 1_Page Submit,Timer 1_Click Count,Timer 2_First Click,Timer 2_Last Click,Timer 2_Page Submit,Timer 2_Click Count,Identification,Timer 3_First Click,Timer 3_Last Click,Timer 3_Page Submit,Timer 3_Click Count,Simple Calculation,Timer 4_First Click,Timer 4_Last Click,Timer 4_Page Submit,Timer 4_Click Count,Timer 5_First Click,Timer 5_Last Click,Timer 5_Page Submit,Timer 5_Click Count,Timer 6_First Click,Timer 6_Last Click,Timer 6_Page Submit,Timer 6_Click Count,Timer 7_First Click,Timer 7_Last Click,Timer 7_Page Submit,Timer 7_Click Count,Timer 8_First Click,Timer 8_Last Click,Timer 8_Page Submit,Timer 8_Click Count,WaterfallActual_Id,WaterfallActual_Name,WaterfallActual_Size,WaterfallActual_Type,Timer Start_First Click,Timer Start_Last Click,Timer Start_Page Submit,Timer Start_Click Count,Demographic,Timer Q1_First Click,Timer Q1_Last Click,Timer Q1_Page Submit,Timer Q1_Click Count,Timer Q2_First Click,Timer Q2_Last Click,Timer Q2_Page Submit,Timer Q2_Click Count,Identification,Timer Q3_First Click,Timer Q3_Last Click,Timer Q3_Page Submit,Timer Q3_Click Count,Simple Calculation,Timer Q4_First Click,Timer Q4_Last Click,Timer Q4_Page Submit,Timer Q4_Click Count,Timer Q5_First Click,Timer Q5_Last Click,Timer Q5_Page Submit,Timer Q5_Click Count,Timer Q6_First Click,Timer Q6_Last Click,Timer Q6_Page Submit,Timer Q6_Click Count,Timer Q7_First Click,Timer Q7_Last Click,Timer Q7_Page Submit,Timer Q7_Click Count,Timer Q8_First Click,Timer Q8_Last Click,Timer Q8_Page Submit,Timer Q8_Click Count,ButterflyAnalogy_Id,ButterflyAnalogy_Name,ButterflyAnalogy_Size,ButterflyAnalogy_Type,Timer Start_First Click,Timer Start_Last Click,Timer Start_Page Submit,Timer Start_Click Count,Demographic,Timer Q1_First Click,Timer Q1_Last Click,Timer Q1_Page Submit,Timer Q1_Click Count,Timer Q2_First Click,Timer Q2_Last Click,Timer Q2_Page Submit,Timer Q2_Click Count,Simple Calculation,Timer Q3_First Click,Timer Q3_Last Click,Timer Q3_Page Submit,Timer Q3_Click Count,Simple Calculation,Timer Q4_First Click,Timer Q4_Last Click,Timer Q4_Page Submit,Timer Q4_Click Count,Timer Q5_First Click,Timer Q5_Last Click,Timer Q5_Page Submit,Timer Q5_Click Count,Timer Q6_First Click,Timer Q6_Last Click,Timer Q6_Page Submit,Timer Q6_Click Count,Timer Q7_First Click,Timer Q7_Last Click,Timer Q7_Page Submit,Timer Q7_Click Count,Timer Q8_First Click,Timer Q8_Last Click,Timer Q8_Page Submit,Timer Q8_Click Count,ButterflyActual_Id,ButterflyActual_Name,ButterflyActual_Size,ButterflyActual_Type,Timer Start_First Click,Timer Start_Last Click,Timer Start_Page Submit,Timer Start_Click Count,Demographic,Timer Q1_First Click,Timer Q1_Last Click,Timer Q1_Page Submit,Timer Q1_Click Count,Timer Q2_First Click,Timer Q2_Last Click,Timer Q2_Page Submit,Timer Q2_Click Count,Identification,Timer Q3_First Click,Timer Q3_Last Click,Timer Q3_Page Submit,Timer Q3_Click Count,Simple Calculation,Timer Q4_First Click,Timer Q4_Last Click,Timer Q4_Page Submit,Timer Q4_Click Count,Timer Q5_First Click,Timer Q5_Last Click,Timer Q5_Page Submit,Timer Q5_Click Count,Timer Q6_First Click,Timer Q6_Last Click,Timer Q6_Page Submit,Timer Q6_Click Count,Timer Q7_First Click,Timer Q7_Last Click,Timer Q7_Page Submit,Timer Q7_Click Count,Timer Q8_First Click,Timer Q8_Last Click,Timer Q8_Page Submit,Timer Q8_Click Count,BubbleAnalogy_Id,BubbleAnalogy_Name,BubbleAnalogy_Size,BubbleAnalogy_Type,Timer Start_First Click,Timer Start_Last Click,Timer Start_Page Submit,Timer Start_Click Count,Demographic,Timer 1_First Click,Timer 1_Last Click,Timer 1_Page Submit,Timer 1_Click Count,Timer 2_First Click,Timer 2_Last Click,Timer 2_Page Submit,Timer 2_Click Count,Identification,Timer 3_First Click,Timer 3_Last Click,Timer 3_Page Submit,Timer 3_Click Count,Simple Calculation,Timer 4_First Click,Timer 4_Last Click,Timer 4_Page Submit,Timer 4_Click Count,Timer 5_First Click,Timer 5_Last Click,Timer 5_Page Submit,Timer 5_Click Count,Timer 6_First Click,Timer 6_Last Click,Timer 6_Page Submit,Timer 6_Click Count,Timer 7_First Click,Timer 7_Last Click,Timer 7_Page Submit,Timer 7_Click Count,Timer 8_First Click,Timer 8_Last Click,Timer 8_Page Submit,Timer 8_Click Count,BubbleActual_Id,BubbleActual_Name,BubbleActual_Size,BubbleActual_Type,Timer Start_First Click,Timer Start_Last Click,Timer Start_Page Submit,Timer Start_Click Count,Demographic,Timer Q1_First Click,Timer Q1_Last Click,Timer Q1_Page Submit,Timer Q1_Click Count,Timer Q2_First Click,Timer Q2_Last Click,Timer Q2_Page Submit,Timer Q2_Click Count,Identification,Timer Q3_First Click,Timer Q3_Last Click,Timer Q3_Page Submit,Timer Q3_Click Count,Simple Calculation,Timer Q4_First Click,Timer Q4_Last Click,Timer Q4_Page Submit,Timer Q4_Click Count,Timer Q5_First Click,Timer Q5_Last Click,Timer Q5_Page Submit,Timer Q5_Click Count,Timer Q6_First Click,Timer Q6_Last Click,Timer Q6_Page Submit,Timer Q6_Click Count,Timer Q7_First Click,Timer Q7_Last Click,Timer Q7_Page Submit,Timer Q7_Click Count,Timer Q8_First Click,Timer Q8_Last Click,Timer Q8_Page Submit,Timer Q8_Click Count,HistogramAnalogy_Id,HistogramAnalogy_Name,HistogramAnalogy_Size,HistogramAnalogy_Type,Timer start_First Click,Timer start_Last Click,Timer start_Page Submit,Timer start_Click Count,Demographic,Timer 1_First Click,Timer 1_Last Click,Timer 1_Page Submit,Timer 1_Click Count,Timer 2_First Click,Timer 2_Last Click,Timer 2_Page Submit,Timer 2_Click Count,Identification,Timer 3_First Click,Timer 3_Last Click,Timer 3_Page Submit,Timer 3_Click Count,Simple Calculation,Timer 4_First Click,Timer 4_Last Click,Timer 4_Page Submit,Timer 4_Click Count,Timer 5_First Click,Timer 5_Last Click,Timer 5_Page Submit,Timer 5_Click Count,Timer 6_First Click,Timer 6_Last Click,Timer 6_Page Submit,Timer 6_Click Count,Timer 7_First Click,Timer 7_Last Click,Timer 7_Page Submit,Timer 7_Click Count,Timer 8_First Click,Timer 8_Last Click,Timer 8_Page Submit,Timer 8_Click Count,HistogramActual_Id,HistogramActual_Name,HistogramActual_Size,HistogramActual_Type,Timer Start_First Click,Timer Start_Last Click,Timer Start_Page Submit,Timer Start_Click Count,Demographic,Timer Q1_First Click,Timer Q1_Last Click,Timer Q1_Page Submit,Timer Q1_Click Count,Timer Q2_First Click,Timer Q2_Last Click,Timer Q2_Page Submit,Timer Q2_Click Count,Identification,Timer Q3_First Click,Timer Q3_Last Click,Timer Q3_Page Submit,Timer Q3_Click Count,Simple Calculation,Timer Q4_First Click,Timer Q4_Last Click,Timer Q4_Page Submit,Timer Q4_Click Count,Timer Q5_First Click,Timer Q5_Last Click,Timer Q5_Page Submit,Timer Q5_Click Count,Timer Q6_First Click,Timer Q6_Last Click,Timer Q6_Page Submit,Timer Q6_Click Count,Timer Q7_First Click,Timer Q7_Last Click,Timer Q7_Page Submit,Timer Q7_Click Count,Timer Q8_First Click,Timer Q8_Last Click,Timer Q8_Page Submit,Timer Q8_Click Count,TreemapAnalogy_Id,TreemapAnalogy_Name,TreemapAnalogy_Size,TreemapAnalogy_Type,Timer Start_First Click,Timer Start_Last Click,Timer Start_Page Submit,Timer Start_Click Count,Demographic,Timer 1_First Click,Timer 1_Last Click,Timer 1_Page Submit,Timer 1_Click Count,Timer 2_First Click,Timer 2_Last Click,Timer 2_Page Submit,Timer 2_Click Count,Identification,Timer 3_First Click,Timer 3_Last Click,Timer 3_Page Submit,Timer 3_Click Count,Simple Calculation,Timer 3_First Click,Timer 3_Last Click,Timer 3_Page Submit,Timer 3_Click Count,Timer 5_First Click,Timer 5_Last Click,Timer 5_Page Submit,Timer 5_Click Count,Timer 6_First Click,Timer 6_Last Click,Timer 6_Page Submit,Timer 6_Click Count,Timer 7_First Click,Timer 7_Last Click,Timer 7_Page Submit,Timer 7_Click Count,Timer 8_First Click,Timer 8_Last Click,Timer 8_Page Submit,Timer 8_Click Count,TreemapActual_Id,TreemapActual_Name,TreemapActual_Size,TreemapActual_Type,Timer Start_First Click,Timer Start_Last Click,Timer Start_Page Submit,Timer Start_Click Count,Demographic,Timer Q1_First Click,Timer Q1_Last Click,Timer Q1_Page Submit,Timer Q1_Click Count,Timer Q2_First Click,Timer Q2_Last Click,Timer Q2_Page Submit,Timer Q2_Click Count,Identification,Timer Q3_First Click,Timer Q3_Last Click,Timer Q3_Page Submit,Timer Q3_Click Count,Simple Calculation,Timer Q4_First Click,Timer Q4_Last Click,Timer Q4_Page Submit,Timer Q4_Click Count,Timer Q5_First Click,Timer Q5_Last Click,Timer Q5_Page Submit,Timer Q5_Click Count,Timer Q6_First Click,Timer Q6_Last Click,Timer Q6_Page Submit,Timer Q6_Click Count,Timer Q7_First Click,Timer Q7_Last Click,Timer Q7_Page Submit,Timer Q7_Click Count,Timer Q8_First Click,Timer Q8_Last Click,Timer Q8_Page Submit,Timer Q8_Click Count,BarAnalogy_Id,BarAnalogy_Name,BarAnalogy_Size,BarAnalogy_Type,Timer Starts_First Click,Timer Starts_Last Click,Timer Starts_Page Submit,Timer Starts_Click Count,Demographic,Timer Q1_First Click,Timer Q1_Last Click,Timer Q1_Page Submit,Timer Q1_Click Count,Timer Q2_First Click,Timer Q2_Last Click,Timer Q2_Page Submit,Timer Q2_Click Count,Identification,Timer Q3_First Click,Timer Q3_Last Click,Timer Q3_Page Submit,Timer Q3_Click Count,Simple Calculation,Timer Q4_First Click,Timer Q4_Last Click,Timer Q4_Page Submit,Timer Q4_Click Count,Timer 5_First Click,Timer 5_Last Click,Timer 5_Page Submit,Timer 5_Click Count,Timer 6_First Click,Timer 6_Last Click,Timer 6_Page Submit,Timer 6_Click Count,Timer 7_First Click,Timer 7_Last Click,Timer 7_Page Submit,Timer 7_Click Count,Timer 8_First Click,Timer 8_Last Click,Timer 8_Page Submit,Timer 8_Click Count,BarActual_Id,BarActual_Name,BarActual_Size,BarActual_Type,Timer Start_First Click,Timer Start_Last Click,Timer Start_Page Submit,Timer Start_Click Count,Demographic,Timer Q1_First Click,Timer Q1_Last Click,Timer Q1_Page Submit,Timer Q1_Click Count,Timer Q2_First Click,Timer Q2_Last Click,Timer Q2_Page Submit,Timer Q2_Click Count,Identificaton,Timer Q3_First Click,Timer Q3_Last Click,Timer Q3_Page Submit,Timer Q3_Click Count,Simple Calculation,Timer Q4_First Click,Timer Q4_Last Click,Timer Q4_Page Submit,Timer Q4_Click Count,Timer Q5_First Click,Timer Q5_Last Click,Timer Q5_Page Submit,Timer Q5_Click Count,Timer Q6_First Click,Timer Q6_Last Click,Timer Q6_Page Submit,Timer Q6_Click Count,Timer Q7_First Click,Timer Q7_Last Click,Timer Q7_Page Submit,Timer Q7_Click Count,Timer Q8_First Click,Timer Q8_Last Click,Timer Q8_Page Submit,Timer Q8_Click Count,HeatmapAnalogy_Id,HeatmapAnalogy_Name,HeatmapAnalogy_Size,HeatmapAnalogy_Type,Timer 0_First Click,Timer 0_Last Click,Timer 0_Page Submit,Timer 0_Click Count,Demographic,Timer 1_First Click,Timer 1_Last Click,Timer 1_Page Submit,Timer 1_Click Count,Timer 2_First Click,Timer 2_Last Click,Timer 2_Page Submit,Timer 2_Click Count,Identification,Timer 3_First Click,Timer 3_Last Click,Timer 3_Page Submit,Timer 3_Click Count,Simple Calculation,Timer 4_First Click,Timer 4_Last Click,Timer 4_Page Submit,Timer 4_Click Count,Timer 5_First Click,Timer 5_Last Click,Timer 5_Page Submit,Timer 5_Click Count,Timer 6_First Click,Timer 6_Last Click,Timer 6_Page Submit,Timer 6_Click Count,Timer 7_First Click,Timer 7_Last Click,Timer 7_Page Submit,Timer 7_Click Count,Timer 8_First Click,Timer 8_Last Click,Timer 8_Page Submit,Timer 8_Click Count,HeatmapActual_Id,HeatmapActual_Name,HeatmapActual_Size,HeatmapActual_Type,Timer Start_First Click,Timer Start_Last Click,Timer Start_Page Submit,Timer Start_Click Count,Demographic,Timer Q1_First Click,Timer Q1_Last Click,Timer Q1_Page Submit,Timer Q1_Click Count,Timer Q2_First Click,Timer Q2_Last Click,Timer Q2_Page Submit,Timer Q2_Click Count,Identification,Timer Q3_First Click,Timer Q3_Last Click,Timer Q3_Page Submit,Timer Q3_Click Count,Simple Calculation,Timer Q4_First Click,Timer Q4_Last Click,Timer Q4_Page Submit,Timer Q4_Click Count,Timer Q5_First Click,Timer Q5_Last Click,Timer Q5_Page Submit,Timer Q5_Click Count,Timer Q6_First Click,Timer Q6_Last Click,Timer Q6_Page Submit,Timer Q6_Click Count,Timer Q7_First Click,Timer Q7_Last Click,Timer Q7_Page Submit,Timer Q7_Click Count,Timer Q8_First Click,Timer Q8_Last Click,Timer Q8_Page Submit,Timer Q8_Click Count,SankeyAnalogy_Id,SankeyAnalogy_Name,SankeyAnalogy_Size,SankeyAnalogy_Type,Timer Starts_First Click,Timer Starts_Last Click,Timer Starts_Page Submit,Timer Starts_Click Count,Demographic,Timer 1_First Click,Timer 1_Last Click,Timer 1_Page Submit,Timer 1_Click Count,Timer 2_First Click,Timer 2_Last Click,Timer 2_Page Submit,Timer 2_Click Count,Identification,Timer 3_First Click,Timer 3_Last Click,Timer 3_Page Submit,Timer 3_Click Count,Simple Calculation,Timer 4_First Click,Timer 4_Last Click,Timer 4_Page Submit,Timer 4_Click Count,Timer 5_First Click,Timer 5_Last Click,Timer 5_Page Submit,Timer 5_Click Count,Timer 6_First Click,Timer 6_Last Click,Timer 6_Page Submit,Timer 6_Click Count,Timer 7_First Click,Timer 7_Last Click,Timer 7_Page Submit,Timer 7_Click Count,Timer 8_First Click,Timer 8_Last Click,Timer 8_Page Submit,Timer 8_Click Count,Sankey Draw_Id,Sankey Draw_Name,Sankey Draw_Size,Sankey Draw_Type,Timer Start_First Click,Timer Start_Last Click,Timer Start_Page Submit,Timer Start_Click Count,Demographic,Timer Q1_First Click,Timer Q1_Last Click,Timer Q1_Page Submit,Timer Q1_Click Count,Timer Q2_First Click,Timer Q2_Last Click,Timer Q2_Page Submit,Timer Q2_Click Count,Identification,Timer Q3_First Click,Timer Q3_Last Click,Timer Q3_Page Submit,Timer Q3_Click Count,Simple Calculation,Timer Q4_First Click,Timer Q4_Last Click,Timer Q4_Page Submit,Timer Q4_Click Count,Timer Q5_First Click,Timer Q5_Last Click,Timer Q5_Page Submit,Timer Q5_Click Count,Timer Q6_First Click,Timer Q6_Last Click,Timer Q6_Page Submit,Timer Q6_Click Count,Timer Q7_First Click,Timer Q7_Last Click,Timer Q7_Page Submit,Timer Q7_Click Count,Timer Q8_First Click,Timer Q8_Last Click,Timer Q8_Page Submit,Timer Q8_Click Count,SunburstAnalogy_Id,SunburstAnalogy_Name,SunburstAnalogy_Size,SunburstAnalogy_Type,Timer 0_First Click,Timer 0_Last Click,Timer 0_Page Submit,Timer 0_Click Count,Demographic,Timer 1_First Click,Timer 1_Last Click,Timer 1_Page Submit,Timer 1_Click Count,Timer 2_First Click,Timer 2_Last Click,Timer 2_Page Submit,Timer 2_Click Count,Identification,Timer 3_First Click,Timer 3_Last Click,Timer 3_Page Submit,Timer 3_Click Count,Simple Calculation,Timer 4_First Click,Timer 4_Last Click,Timer 4_Page Submit,Timer 4_Click Count,Timer 5_First Click,Timer 5_Last Click,Timer 5_Page Submit,Timer 5_Click Count,Timer 6_First Click,Timer 6_Last Click,Timer 6_Page Submit,Timer 6_Click Count,Timer 7_First Click,Timer 7_Last Click,Timer 7_Page Submit,Timer 7_Click Count,Timer 8_First Click,Timer 8_Last Click,Timer 8_Page Submit,Timer 8_Click Count,Sunburst Draw_Id,Sunburst Draw_Name,Sunburst Draw_Size,Sunburst Draw_Type,Understanding-AB,Effort-AB,Effectiveness-AB,Preference-AB,Transfer-AB_1,Understanding-BA,Effort-BA,Effectiveness-BA,Preference-BA,Transfer-BA_1,feedback,PROLIFIC_PID,Group,ChartType
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Consent Form for Participation in a Research Study
+
+ 
+
+Principal Investigators:Dr. Carolina Nobre, Assistant Professor at University of Toronto 
+
+Study Title: Enhancing Visualization Literacy through Analogical Explanations: Bridging Abstract Data Concepts with Intuitive Understanding
+
+Supported By: University of Toronto
+
+ 
+
+WHAT IS THIS FORM?
+
+This form is called a Consent Form. It will give you information about the study so you can make an informed decision about participation in this research. We encourage you to take some time to think this over and ask questions now and at any other time. If you decide to participate, you will be asked to sign this form and you will be given a copy for your records.
+ 
+
+WHAT ARE SOME OF THE IMPORTANT ASPECTS OF THIS RESEARCH STUDY THAT I SHOULD BE AWARE OF?
+
+
+	
+	You can choose not to take part.
+	
+	
+	You can agree to take part and later change your mind.
+	
+	
+	Your decision will not be held against you.
+	
+
+ 
+
+WHY ARE WE DOING THIS RESEARCH STUDY?
+
+We aim to explore how analogies inspired by real-world objects can help people, especially those new to data interpretation, better understand and interpret novel chart types.
+ 
+
+WHO CAN PARTICIPATE IN THIS RESEARCH STUDY?
+
+Any person who is at least 18 years of age may participate in this research study.
+ 
+
+HOW MANY PEOPLE WILL PARTICIPATE?
+
+We expect about 200 people will be in this research study.
+ 
+
+WHAT WILL I BE ASKED TO DO AND HOW MUCH TIME WILL IT TAKE?
+
+ 
+This research study consists of two phases. In each phase, you will be presented with a chart that represents the same data but in a different format. After reviewing each chart, you will answer questions to assess your understanding of the information presented. The study is expected to take approximately 40–50 minutes to complete.  
+
+ 
+WILL BEING IN THIS RESEARCH STUDY HELP ME IN ANY WAY? 
+
+You are not likely to have any direct benefit from being in this research study. The potential benefits to you from participation may include learning about how data visualization research is conducted, and you may learn about issues of current interest in data visualization.
+ 
+
+WHAT ARE MY RISKS OF BEING IN THIS RESEARCH STUDY? 
+
+Your participation in this study does not involve any risks other than what you would encounter in daily life. The effects of participating should be comparable to those you would experience from viewing a computer monitor and using a keyboard. You may withdraw at any time.
+ 
+
+HOW WILL MY PERSONAL INFORMATION BE PROTECTED? 
+
+Efforts will be made to limit the use and disclosure of your personal information, including research study records, to people who have a need to review this information. We cannot promise complete secrecy. Organizations that may inspect and copy your information include the IRB and other representatives of this institution. 
+
+ 
+
+Data Sharing: De-identified data from this study will be shared among University of Toronto research teams,. We will remove or code any personal information that could identify you before files are shared with other researchers to ensure that, by current scientific standards and known methods, no one will be able to identify you from the information we share. 
+
+ 
+
+ADDITIONAL DATA COLLECTION 
+
+For this research study, we may also require participants to engage in activities beyond just answering questions. This may include: 
+
+ 
+
+A) Sketching or Drawing: We may ask you to create sketches or drawings as part of the data analysis process. This will be done strictly for research purposes and you do not need any specific drawing skills to participate. All your sketches or drawings will remain confidential and used only for this study. 
+
+ 
+
+B) Audio Recording: Throughout your participation, you may also be asked to have your voice recorded. This audio recording will be used for transcription and analysis for the study. The recordings will be securely stored and only accessible to the research team. We will not collect any identifiable information from these recordings. 
+
+ 
+
+WHO CAN I TALK TO IF I HAVE QUESTIONS?
+
+If you have questions about this project or if you have a research-related problem, you may contact the Principal Investigator, Dr. Carolina Nobre, at cnobre@cs.toronto.edu. 
+
+For questions about your rights as a research participant, you may contact the Human Research Ethics Unit at ethics.review@utoronto.ca or 416-946-3273.
+
+ 
+
+WHAT HAPPENS IF I SAY YES, BUT I CHANGE MY MIND LATER?
+
+You can decide not to participate in this research or you can start and then decide to leave the research at any time and it will not be held against you. To do so, simply exit the experiment.  Any data already collected will not be saved.
+
+ 
+
+By clicking “I consent” below you are indicating that you are at least 18 years old, have read this consent form, and agree to participate in this research study with these additional collection methods. However, as with all aspects of this study, participation is entirely voluntary and you may opt out of these particular activities if you choose to. Please print a copy of this page for your records.",What is your age?,What is your gender?,What is your highest level of education?,What field is your degree in or what profession are you in?,How often do you use charts per week in a professional or academic setting?,Have you ever used a chart or graph to present information to others?,"Choose the answer which best explains your preference and click the box next to it. Please click more than one if a single answer does not match your perception. Leave blank any question that does not apply.
+
+
+
+
+
+When finding my way, I:","When choosing a career or area of study, these are important for me:",I want to learn how to play a new board game or card game. I would:,I have been advised by the doctor that I have a medical problem and I have some questions about it. I would:,I want to find out about a house or an apartment. Before visiting it I would want:,I have finished a competition or test and I would like some feedback:,I prefer a presenter or a teacher who uses:,I want to learn about a new project. I would ask for:,When I am learning I:,When learning from the Internet I like:,I want to save more money and to decide between a range of options. I would:,I want to learn to do something new on a computer. I would:,I want to learn how to take better photos. I would:,I am having trouble assembling a wooden table that came in parts (kitset). I would:,"A website has a video showing how to make a special graph or chart. There is a person speaking, some lists and words describing what to do and some diagrams. I would learn most from:",I want to find out more about a tour that I am going on. I would:,"Welcome to the think-aloud study.
+        You will be given two charts. You may be familiar or unfamiliar with them.
+        Your task is to answer questions based on these charts:
+            
+                No dataset will be provided, but all necessary information is in the charts.
+                Don’t worry about accuracy—focus on your reasoning.
+            
+        
+        Instructions:
+            
+                Verbalize your thoughts while you go through the questions.
+                There are no right or wrong answers—just share your reasoning.
+                Record your voice immediately upon seeing the question, without overthinking.
+            
+        
+        On the next two pages, you will be presented with videos on how to record and make sketches on the charts.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"This tutorial contains important information that you need to understand in order to continue.
+
+
+
+
+
+
+
+
+
+
+
+Once you’ve finished watching the video, please check the box below to confirm:","Please ensure that you allow microphone access for this survey. After watching the video, you can test the voice input feature or use the text input option if you prefer.
+
+
+
+Before proceeding, make sure to provide an input—either voice or text—as the survey will not allow you to continue without it.
+
+
+
+ 
+
+
+
+Once you’ve entered your input, feel free to move on whenever you’re ready!",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"This tutorial contains important information that you need to understand in order to continue.
+
+
+
+
+
+
+
+
+
+After watching the video, you can try the sketch on your own, or move on whenever you are ready - Id","This tutorial contains important information that you need to understand in order to continue.
+
+
+
+
+
+
+
+
+
+After watching the video, you can try the sketch on your own, or move on whenever you are ready - Name","This tutorial contains important information that you need to understand in order to continue.
+
+
+
+
+
+
+
+
+
+After watching the video, you can try the sketch on your own, or move on whenever you are ready - Size","This tutorial contains important information that you need to understand in order to continue.
+
+
+
+
+
+
+
+
+
+After watching the video, you can try the sketch on your own, or move on whenever you are ready - Type",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,How familiar are you with this type of chart?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Identify the color and position of the Organic Layer in the chart.
+
+
+
+    
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Visually estimate the thickness of the Topsoil layer in 1994.
+
+
+
+    
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Sketch
+
+
+
+Sketch how the chart would look if the Topsoil layer increased by 10 cm in thickness from 2014 to 2024.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Id","Sketch
+
+
+
+Sketch how the chart would look if the Topsoil layer increased by 10 cm in thickness from 2014 to 2024.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Name","Sketch
+
+
+
+Sketch how the chart would look if the Topsoil layer increased by 10 cm in thickness from 2014 to 2024.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Size","Sketch
+
+
+
+Sketch how the chart would look if the Topsoil layer increased by 10 cm in thickness from 2014 to 2024.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Type","How well do you feel you understood the data presented in the chart? 
+
+Scale: Very Poor (1) – Very Well (7) - Rating","How easy was it to interpret the chart and extract insights?
+
+
+
+Scale: Very Difficult (1) – Very Easy (7) - Rating","How confident are you in the accuracy of your answers to the questions?
+
+
+
+Scale: Not Confident (1) – Very Confident (7) - Rating","How mentally demanding was the task?
+
+
+
+Scale: Very Low (1) - Very High (7) - Rating","How hurried or rushed did you feel while completing the task using the visualization
+
+
+
+Scale: Very Low (1) - Very High (7) - Rating","How much effort did you have to put into understanding the data in the visualization
+
+
+
+Scale: Very Low (1) - Very High (7) - Rating","How frustrated did you feel while working with the visualization
+
+
+
+Scale: Very Low (1) - Very High (7) - Rating",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,How familiar are you with this type of chart?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Identify the color and position of the Organic Layer in the chart.
+
+
+
+
+   
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Visually estimate the thickness of the Topsoil layer in 1994.
+
+
+
+   
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Sketch
+
+
+
+Sketch how the chart would look if the Topsoil layer increased by 10 cm in thickness from 2014 to 2024.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Id","Sketch
+
+
+
+Sketch how the chart would look if the Topsoil layer increased by 10 cm in thickness from 2014 to 2024.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Name","Sketch
+
+
+
+Sketch how the chart would look if the Topsoil layer increased by 10 cm in thickness from 2014 to 2024.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Size","Sketch
+
+
+
+Sketch how the chart would look if the Topsoil layer increased by 10 cm in thickness from 2014 to 2024.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Type","How well do you feel you understood the data presented in the chart? 
+
+Scale: Very Poor (1) – Very Well (7) - Rating","How easy was it to interpret the chart and extract insights?
+
+
+
+Scale: Very Difficult (1) – Very Easy (7) - Rating","How confident are you in the accuracy of your answers to the questions?
+
+
+
+Scale: Not Confident (1) – Very Confident (7) - Rating","How mentally demanding was the task?
+
+
+
+Scale: Very Low (1) - Very High (7) - Rating","How hurried or rushed did you feel while completing the task using the visualization
+
+
+
+Scale: Very Low (1) - Very High (7) - Rating","How much effort did you have to put into understanding the data in the visualization
+
+
+
+Scale: Very Low (1) - Very High (7) - Rating","How frustrated did you feel while working with the visualization
+
+
+
+Scale: Very Low (1) - Very High (7) - Rating",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,How familiar are you with this type of chart?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Can you identify the total change in height after the Mushroom Boost 2?
+
+
+
+  
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"What is the total height change after all boosts and attacks?
+
+
+
+
+
+    
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Sketch
+
+
+
+Sketch how the chart would look if the next phase includes a -4 penalty event and +2 bonus event and right after the final height.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Id","Sketch
+
+
+
+Sketch how the chart would look if the next phase includes a -4 penalty event and +2 bonus event and right after the final height.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Name","Sketch
+
+
+
+Sketch how the chart would look if the next phase includes a -4 penalty event and +2 bonus event and right after the final height.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Size","Sketch
+
+
+
+Sketch how the chart would look if the next phase includes a -4 penalty event and +2 bonus event and right after the final height.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Type",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,How familiar are you with this type of chart?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Can you identify the total change in height after the Mushroom Boost 2?
+
+
+
+  
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"What is the total height change after all boosts and attacks?
+
+
+
+
+
+    
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Sketch
+
+
+
+Sketch how the chart would look if the next phase includes a -4 penalty event and +2 bonus event and right after the final height.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Id","Sketch
+
+
+
+Sketch how the chart would look if the next phase includes a -4 penalty event and +2 bonus event and right after the final height.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Name","Sketch
+
+
+
+Sketch how the chart would look if the next phase includes a -4 penalty event and +2 bonus event and right after the final height.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Size","Sketch
+
+
+
+Sketch how the chart would look if the next phase includes a -4 penalty event and +2 bonus event and right after the final height.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Type",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,How familiar are you with this type of chart?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Identify the screw type that penetrates the deepest into the wall, with its specific depth.
+
+
+
+    
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"What is the total length of the screw at row #6, combining depth and exposed length?
+
+
+
+    
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Sketch
+
+
+
+Sketch how the chart would look if there was an 11th screw type with a depth into the wall of 10 cm and an exposed length of 5 cm.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating this screw's position. - Id","Sketch
+
+
+
+Sketch how the chart would look if there was an 11th screw type with a depth into the wall of 10 cm and an exposed length of 5 cm.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating this screw's position. - Name","Sketch
+
+
+
+Sketch how the chart would look if there was an 11th screw type with a depth into the wall of 10 cm and an exposed length of 5 cm.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating this screw's position. - Size","Sketch
+
+
+
+Sketch how the chart would look if there was an 11th screw type with a depth into the wall of 10 cm and an exposed length of 5 cm.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating this screw's position. - Type",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,How familiar are you with this type of chart?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Identify the screw type that penetrates the deepest into the wall, with its specific depth.
+
+
+
+   
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"What is the total length of the screw at row #6, combining depth and exposed length?
+
+
+
+   
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Sketch
+
+
+
+Sketch how the chart would look if there was an 11th screw type with a depth into the wall of 10 cm and an exposed length of 5 cm.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating this screw's position. - Id","Sketch
+
+
+
+Sketch how the chart would look if there was an 11th screw type with a depth into the wall of 10 cm and an exposed length of 5 cm.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating this screw's position. - Name","Sketch
+
+
+
+Sketch how the chart would look if there was an 11th screw type with a depth into the wall of 10 cm and an exposed length of 5 cm.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating this screw's position. - Size","Sketch
+
+
+
+Sketch how the chart would look if there was an 11th screw type with a depth into the wall of 10 cm and an exposed length of 5 cm.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating this screw's position. - Type",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,How familiar are you with this type of chart?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Can you identify the brightest star in the chart? What are the position of this star, including its estimated right ascension and declination?
+
+
+
+   
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"How many stars have a declination higher than 50°?
+
+
+
+  
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Sketch
+
+
+
+Sketch how the chart would look if you add two new stars to the map, the first star has declination of 40° and right acsension of 25° with a average brightness, the second star has declination of 10° and right acsension of 60° with a low brightness.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any added changes. - Id","Sketch
+
+
+
+Sketch how the chart would look if you add two new stars to the map, the first star has declination of 40° and right acsension of 25° with a average brightness, the second star has declination of 10° and right acsension of 60° with a low brightness.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any added changes. - Name","Sketch
+
+
+
+Sketch how the chart would look if you add two new stars to the map, the first star has declination of 40° and right acsension of 25° with a average brightness, the second star has declination of 10° and right acsension of 60° with a low brightness.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any added changes. - Size","Sketch
+
+
+
+Sketch how the chart would look if you add two new stars to the map, the first star has declination of 40° and right acsension of 25° with a average brightness, the second star has declination of 10° and right acsension of 60° with a low brightness.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any added changes. - Type",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,How familiar are you with this type of chart?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Can you identify the brightest star in the chart? What are the position of this star, including its estimated right ascension and declination?
+
+
+
+  
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"How many stars have a declination higher than 50°?
+
+
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Sketch
+
+
+
+Sketch how the chart would look if you add two new stars to the map, the first star has declination of 40° and right acsension of 25° with a average brightness, the second star has declination of 10° and right acsension of 60° with a low brightness.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any added changes. - Id","Sketch
+
+
+
+Sketch how the chart would look if you add two new stars to the map, the first star has declination of 40° and right acsension of 25° with a average brightness, the second star has declination of 10° and right acsension of 60° with a low brightness.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any added changes. - Name","Sketch
+
+
+
+Sketch how the chart would look if you add two new stars to the map, the first star has declination of 40° and right acsension of 25° with a average brightness, the second star has declination of 10° and right acsension of 60° with a low brightness.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any added changes. - Size","Sketch
+
+
+
+Sketch how the chart would look if you add two new stars to the map, the first star has declination of 40° and right acsension of 25° with a average brightness, the second star has declination of 10° and right acsension of 60° with a low brightness.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any added changes. - Type",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,How familiar are you with this type of chart?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Can you point out which score range has the highest number of students?
+
+
+
+    
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Calculate the total number of students in the 100-90 (A) and 84-80 (C) ranges combined.
+
+ 
+
+
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Sketch
+
+
+
+3 more students' test are now added. Sketch how the chart would look if 3 more students scored 81, 84, and 78.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes."" - Id","Sketch
+
+
+
+3 more students' test are now added. Sketch how the chart would look if 3 more students scored 81, 84, and 78.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes."" - Name","Sketch
+
+
+
+3 more students' test are now added. Sketch how the chart would look if 3 more students scored 81, 84, and 78.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes."" - Size","Sketch
+
+
+
+3 more students' test are now added. Sketch how the chart would look if 3 more students scored 81, 84, and 78.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes."" - Type",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,How familiar are you with this type of chart?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Can you point out which score range has the highest number of students?
+
+
+
+   
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Calculate the total number of students in the 100-90 (A) and 84-80 (C) ranges combined.
+
+
+
+
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Sketch
+
+
+
+3 more students' test are now added. Sketch how the chart would look if 3 more students scored 81, 84, and 78.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes."" - Id","Sketch
+
+
+
+3 more students' test are now added. Sketch how the chart would look if 3 more students scored 81, 84, and 78.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes."" - Name","Sketch
+
+
+
+3 more students' test are now added. Sketch how the chart would look if 3 more students scored 81, 84, and 78.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes."" - Size","Sketch
+
+
+
+3 more students' test are now added. Sketch how the chart would look if 3 more students scored 81, 84, and 78.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes."" - Type",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,How familiar are you with this type of chart?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Can you identify and name the sections that represents the 'Downtown' area?
+
+
+
+
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"How many total landmarks are there in the 'Residential Area' and 'Suburbs' section combined?
+
+
+
+
+
+
+
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Sketch
+
+
+
+Design two new sections within the Mall Area, naming them Retail Hub (R) and Boutique Nook (B). Ensure the Retail Hub is twice as large as the Boutique Nook, and clearly label these sections as 'R' and 'B' in your sketch to indicate their respective areas.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Id","Sketch
+
+
+
+Design two new sections within the Mall Area, naming them Retail Hub (R) and Boutique Nook (B). Ensure the Retail Hub is twice as large as the Boutique Nook, and clearly label these sections as 'R' and 'B' in your sketch to indicate their respective areas.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Name","Sketch
+
+
+
+Design two new sections within the Mall Area, naming them Retail Hub (R) and Boutique Nook (B). Ensure the Retail Hub is twice as large as the Boutique Nook, and clearly label these sections as 'R' and 'B' in your sketch to indicate their respective areas.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Size","Sketch
+
+
+
+Design two new sections within the Mall Area, naming them Retail Hub (R) and Boutique Nook (B). Ensure the Retail Hub is twice as large as the Boutique Nook, and clearly label these sections as 'R' and 'B' in your sketch to indicate their respective areas.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Type",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,How familiar are you with this type of chart?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Can you identify and name the sections that represents the 'Downtown' area?
+
+
+
+
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"How many total landmarks are there in the 'Residential Area' and 'Suburbs' section combined?
+
+
+
+
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Sketch
+
+
+
+Design two new sections within the Mall Area, naming them Retail Hub (R) and Boutique Nook (B). Ensure the Retail Hub is twice as large as the Boutique Nook, and clearly label these sections as 'R' and 'B' in your sketch to indicate their respective areas.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Id","Sketch
+
+
+
+Design two new sections within the Mall Area, naming them Retail Hub (R) and Boutique Nook (B). Ensure the Retail Hub is twice as large as the Boutique Nook, and clearly label these sections as 'R' and 'B' in your sketch to indicate their respective areas.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Name","Sketch
+
+
+
+Design two new sections within the Mall Area, naming them Retail Hub (R) and Boutique Nook (B). Ensure the Retail Hub is twice as large as the Boutique Nook, and clearly label these sections as 'R' and 'B' in your sketch to indicate their respective areas.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Size","Sketch
+
+
+
+Design two new sections within the Mall Area, naming them Retail Hub (R) and Boutique Nook (B). Ensure the Retail Hub is twice as large as the Boutique Nook, and clearly label these sections as 'R' and 'B' in your sketch to indicate their respective areas.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Type",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,How familiar are you with this type of chart?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Can you identify the tallest building in this chart?
+
+
+
+  
+
+
+
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Estimate how much taller Pinnacle Heights is compared to Horizon Plaza
+
+
+
+    
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Sketch
+
+
+
+Sketch how the chart would look if a new building, Skyline Tower, was added with a height of 350 meters.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Id","Sketch
+
+
+
+Sketch how the chart would look if a new building, Skyline Tower, was added with a height of 350 meters.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Name","Sketch
+
+
+
+Sketch how the chart would look if a new building, Skyline Tower, was added with a height of 350 meters.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Size","Sketch
+
+
+
+Sketch how the chart would look if a new building, Skyline Tower, was added with a height of 350 meters.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Type",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,How familiar are you with this type of chart?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Can you identify the tallest building in this chart?
+
+
+
+ 
+
+
+
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Estimate how much taller Pinnacle Heights is compared to Horizon Plaza
+
+
+
+   
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Sketch
+
+
+
+Sketch how the chart would look if a new building, Skyline Tower, was added with a height of 350 meters.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Id","Sketch
+
+
+
+Sketch how the chart would look if a new building, Skyline Tower, was added with a height of 350 meters.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Name","Sketch
+
+
+
+Sketch how the chart would look if a new building, Skyline Tower, was added with a height of 350 meters.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Size","Sketch
+
+
+
+Sketch how the chart would look if a new building, Skyline Tower, was added with a height of 350 meters.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Type",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,How familiar are you with this type of chart?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Visually estimate the temperature and category stored in section B-1?
+
+
+
+   
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"How many storages sections have a temperature above 30°C?
+
+
+
+   
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Sketch
+
+
+
+Sketch how the chart would look if the temperature of column 3 in aisle C was adjusted to -6°C.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Id","Sketch
+
+
+
+Sketch how the chart would look if the temperature of column 3 in aisle C was adjusted to -6°C.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Name","Sketch
+
+
+
+Sketch how the chart would look if the temperature of column 3 in aisle C was adjusted to -6°C.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Size","Sketch
+
+
+
+Sketch how the chart would look if the temperature of column 3 in aisle C was adjusted to -6°C.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Type",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,How familiar are you with this type of chart?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Visually estimate the temperature and category stored in section B-1?
+
+
+
+  
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"How many storages sections have a temperature above 30°C?
+
+
+
+  
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Sketch
+
+
+
+Sketch how the chart would look if the temperature of column 3 in aisle C was adjusted to -6°C.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Id","Sketch
+
+
+
+Sketch how the chart would look if the temperature of column 3 in aisle C was adjusted to -6°C.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Name","Sketch
+
+
+
+Sketch how the chart would look if the temperature of column 3 in aisle C was adjusted to -6°C.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Size","Sketch
+
+
+
+Sketch how the chart would look if the temperature of column 3 in aisle C was adjusted to -6°C.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Type",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,How familiar are you with this type of chart?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Can you identify all the sections that connect Main Road 1 to the Research Park? Name each section involved.
+
+
+
+
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"How many routes go through Main Road 1 into the Business District? Count the connections visually.
+
+
+
+
+
+
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Sketch
+
+
+
+Sketch how the chart would look if Main Road 4 was added directly into the Residential Area. You may choose any color for the new road.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Id","Sketch
+
+
+
+Sketch how the chart would look if Main Road 4 was added directly into the Residential Area. You may choose any color for the new road.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Name","Sketch
+
+
+
+Sketch how the chart would look if Main Road 4 was added directly into the Residential Area. You may choose any color for the new road.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Size","Sketch
+
+
+
+Sketch how the chart would look if Main Road 4 was added directly into the Residential Area. You may choose any color for the new road.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Type",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,How familiar are you with this type of chart?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Can you identify all the sections that connect Main Road 1 to the Research Park? Name each section involved.
+
+
+
+
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"How many routes go through Main Road 1 into the Business District? Count the connections visually.
+
+
+
+
+
+
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Sketch
+
+
+
+Sketch how the chart would look if Main Road 4 was added directly into the Residential Area.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Id","Sketch
+
+
+
+Sketch how the chart would look if Main Road 4 was added directly into the Residential Area.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Name","Sketch
+
+
+
+Sketch how the chart would look if Main Road 4 was added directly into the Residential Area.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Size","Sketch
+
+
+
+Sketch how the chart would look if Main Road 4 was added directly into the Residential Area.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Type",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,How familiar are you with this type of chart?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Identify all the majors under Science
+
+
+
+
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Visually estimate which major appears to have the fewest students and briefly explain your reasoning.
+
+
+
+
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Sketch
+
+
+
+Sketch how the chart would look if Statistics were divided into two separate subcategories: descriptive statistics (80%) and inferential statistics (20%). You may use the letter D and I to represent those cetegories.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Id","Sketch
+
+
+
+Sketch how the chart would look if Statistics were divided into two separate subcategories: descriptive statistics (80%) and inferential statistics (20%). You may use the letter D and I to represent those cetegories.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Name","Sketch
+
+
+
+Sketch how the chart would look if Statistics were divided into two separate subcategories: descriptive statistics (80%) and inferential statistics (20%). You may use the letter D and I to represent those cetegories.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Size","Sketch
+
+
+
+Sketch how the chart would look if Statistics were divided into two separate subcategories: descriptive statistics (80%) and inferential statistics (20%). You may use the letter D and I to represent those cetegories.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Type",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,How familiar are you with this type of chart?,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Identify all the majors under Science
+
+
+
+
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Visually estimate which major appears to have the fewest students and briefly explain your reasoning.
+
+
+
+
+
+ 
+Please answer the question below in the space provided.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Sketch
+
+
+
+Sketch how the chart would look if Statistics were divided into two separate subcategories: descriptive statistics (80%) and inferential statistics (20%). You may use the letter D and I to represent those cetegories.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Id","Sketch
+
+
+
+Sketch how the chart would look if Statistics were divided into two separate subcategories: descriptive statistics (80%) and inferential statistics (20%). You may use the letter D and I to represent those cetegories.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Name","Sketch
+
+
+
+Sketch how the chart would look if Statistics were divided into two separate subcategories: descriptive statistics (80%) and inferential statistics (20%). You may use the letter D and I to represent those cetegories.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Size","Sketch
+
+
+
+Sketch how the chart would look if Statistics were divided into two separate subcategories: descriptive statistics (80%) and inferential statistics (20%). You may use the letter D and I to represent those cetegories.
+
+
+
+Please illustrate your understanding by drawing directly on the provided plot, clearly indicating any affected changes. - Type","In this survey, refer back to the two visualizations you encountered in the previous tasks:  the first chart you encountered is referred to as the Visualization Analogies, and the second chart is referred to as the Actual Chart.
+
+
+Which chart was easier to understand?",Which chart required less mental effort to interpret?,Which chart was more effective in helping you identify key data trends or relationships?,Which chart would you prefer to use in the future for similar tasks?,"Reflecting on your experience, how much do you agree with the following statements:
+
+I was able to transfer my understanding of the chart from the Visualization Analogies to the actual chart
+
+Scale: Strongly Disagree (1) - Strongly Agree (7) - Rate","In this survey, refer back to the two visualizations you encountered in the previous tasks: the first chart you encountered is referred to as the Actual Chart, and the second chart is referred to as the Visualization Analogies.
+
+
+Which chart was easier to understand?",Which chart required less mental effort to interpret?,Which chart was more effective in helping you identify key data trends or relationships?,Which chart would you prefer to use in the future for similar tasks?,"Reflecting on your experience, how much do you agree with the following statements:
+
+I was able to transfer my understanding of the chart from the actual chart to the Visualization Analogies 
+
+Scale: Strongly Disagree (1) - Strongly Agree (7) - Rate","Thank you for participating in the pilot version of this study.
+
+If you have any feedback for us of anything that was unclear or could be improved, please let us know below!",PROLIFIC_PID,Group,ChartType
+"{""ImportId"":""startDate"",""timeZone"":""America/Toronto""}","{""ImportId"":""endDate"",""timeZone"":""America/Toronto""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Toronto""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID2""}","{""ImportId"":""QID1_TEXT""}","{""ImportId"":""QID3""}","{""ImportId"":""QID4""}","{""ImportId"":""QID5_TEXT""}","{""ImportId"":""QID6""}","{""ImportId"":""QID10""}","{""ImportId"":""QID11""}","{""ImportId"":""QID12""}","{""ImportId"":""QID13""}","{""ImportId"":""QID14""}","{""ImportId"":""QID15""}","{""ImportId"":""QID16""}","{""ImportId"":""QID17""}","{""ImportId"":""QID18""}","{""ImportId"":""QID19""}","{""ImportId"":""QID20""}","{""ImportId"":""QID21""}","{""ImportId"":""QID22""}","{""ImportId"":""QID23""}","{""ImportId"":""QID24""}","{""ImportId"":""QID25""}","{""ImportId"":""QID26""}","{""ImportId"":""QID316""}","{""ImportId"":""QID311_FIRST_CLICK""}","{""ImportId"":""QID311_LAST_CLICK""}","{""ImportId"":""QID311_PAGE_SUBMIT""}","{""ImportId"":""QID311_CLICK_COUNT""}","{""ImportId"":""QID312""}","{""ImportId"":""QID331""}","{""ImportId"":""QID313_FIRST_CLICK""}","{""ImportId"":""QID313_LAST_CLICK""}","{""ImportId"":""QID313_PAGE_SUBMIT""}","{""ImportId"":""QID313_CLICK_COUNT""}","{""ImportId"":""QID314_FILE_ID""}","{""ImportId"":""QID314_FILE_NAME""}","{""ImportId"":""QID314_FILE_SIZE""}","{""ImportId"":""QID314_FILE_TYPE""}","{""ImportId"":""QID376_FIRST_CLICK""}","{""ImportId"":""QID376_LAST_CLICK""}","{""ImportId"":""QID376_PAGE_SUBMIT""}","{""ImportId"":""QID376_CLICK_COUNT""}","{""ImportId"":""QID378""}","{""ImportId"":""QID379_FIRST_CLICK""}","{""ImportId"":""QID379_LAST_CLICK""}","{""ImportId"":""QID379_PAGE_SUBMIT""}","{""ImportId"":""QID379_CLICK_COUNT""}","{""ImportId"":""QID381_FIRST_CLICK""}","{""ImportId"":""QID381_LAST_CLICK""}","{""ImportId"":""QID381_PAGE_SUBMIT""}","{""ImportId"":""QID381_CLICK_COUNT""}","{""ImportId"":""QID382_TEXT""}","{""ImportId"":""QID383_FIRST_CLICK""}","{""ImportId"":""QID383_LAST_CLICK""}","{""ImportId"":""QID383_PAGE_SUBMIT""}","{""ImportId"":""QID383_CLICK_COUNT""}","{""ImportId"":""QID384_TEXT""}","{""ImportId"":""QID385_FIRST_CLICK""}","{""ImportId"":""QID385_LAST_CLICK""}","{""ImportId"":""QID385_PAGE_SUBMIT""}","{""ImportId"":""QID385_CLICK_COUNT""}","{""ImportId"":""QID387_FIRST_CLICK""}","{""ImportId"":""QID387_LAST_CLICK""}","{""ImportId"":""QID387_PAGE_SUBMIT""}","{""ImportId"":""QID387_CLICK_COUNT""}","{""ImportId"":""QID389_FIRST_CLICK""}","{""ImportId"":""QID389_LAST_CLICK""}","{""ImportId"":""QID389_PAGE_SUBMIT""}","{""ImportId"":""QID389_CLICK_COUNT""}","{""ImportId"":""QID391_FIRST_CLICK""}","{""ImportId"":""QID391_LAST_CLICK""}","{""ImportId"":""QID391_PAGE_SUBMIT""}","{""ImportId"":""QID391_CLICK_COUNT""}","{""ImportId"":""QID393_FIRST_CLICK""}","{""ImportId"":""QID393_LAST_CLICK""}","{""ImportId"":""QID393_PAGE_SUBMIT""}","{""ImportId"":""QID393_CLICK_COUNT""}","{""ImportId"":""QID394_FILE_ID""}","{""ImportId"":""QID394_FILE_NAME""}","{""ImportId"":""QID394_FILE_SIZE""}","{""ImportId"":""QID394_FILE_TYPE""}","{""ImportId"":""QID353_12""}","{""ImportId"":""QID571_12""}","{""ImportId"":""QID572_12""}","{""ImportId"":""QID576_12""}","{""ImportId"":""QID577_12""}","{""ImportId"":""QID578_12""}","{""ImportId"":""QID579_12""}","{""ImportId"":""QID332_FIRST_CLICK""}","{""ImportId"":""QID332_LAST_CLICK""}","{""ImportId"":""QID332_PAGE_SUBMIT""}","{""ImportId"":""QID332_CLICK_COUNT""}","{""ImportId"":""QID334""}","{""ImportId"":""QID335_FIRST_CLICK""}","{""ImportId"":""QID335_LAST_CLICK""}","{""ImportId"":""QID335_PAGE_SUBMIT""}","{""ImportId"":""QID335_CLICK_COUNT""}","{""ImportId"":""QID337_FIRST_CLICK""}","{""ImportId"":""QID337_LAST_CLICK""}","{""ImportId"":""QID337_PAGE_SUBMIT""}","{""ImportId"":""QID337_CLICK_COUNT""}","{""ImportId"":""QID338_TEXT""}","{""ImportId"":""QID339_FIRST_CLICK""}","{""ImportId"":""QID339_LAST_CLICK""}","{""ImportId"":""QID339_PAGE_SUBMIT""}","{""ImportId"":""QID339_CLICK_COUNT""}","{""ImportId"":""QID340_TEXT""}","{""ImportId"":""QID341_FIRST_CLICK""}","{""ImportId"":""QID341_LAST_CLICK""}","{""ImportId"":""QID341_PAGE_SUBMIT""}","{""ImportId"":""QID341_CLICK_COUNT""}","{""ImportId"":""QID343_FIRST_CLICK""}","{""ImportId"":""QID343_LAST_CLICK""}","{""ImportId"":""QID343_PAGE_SUBMIT""}","{""ImportId"":""QID343_CLICK_COUNT""}","{""ImportId"":""QID345_FIRST_CLICK""}","{""ImportId"":""QID345_LAST_CLICK""}","{""ImportId"":""QID345_PAGE_SUBMIT""}","{""ImportId"":""QID345_CLICK_COUNT""}","{""ImportId"":""QID347_FIRST_CLICK""}","{""ImportId"":""QID347_LAST_CLICK""}","{""ImportId"":""QID347_PAGE_SUBMIT""}","{""ImportId"":""QID347_CLICK_COUNT""}","{""ImportId"":""QID351_FIRST_CLICK""}","{""ImportId"":""QID351_LAST_CLICK""}","{""ImportId"":""QID351_PAGE_SUBMIT""}","{""ImportId"":""QID351_CLICK_COUNT""}","{""ImportId"":""QID352_FILE_ID""}","{""ImportId"":""QID352_FILE_NAME""}","{""ImportId"":""QID352_FILE_SIZE""}","{""ImportId"":""QID352_FILE_TYPE""}","{""ImportId"":""QID580_12""}","{""ImportId"":""QID581_12""}","{""ImportId"":""QID582_12""}","{""ImportId"":""QID583_12""}","{""ImportId"":""QID584_12""}","{""ImportId"":""QID585_12""}","{""ImportId"":""QID586_12""}","{""ImportId"":""QID398_FIRST_CLICK""}","{""ImportId"":""QID398_LAST_CLICK""}","{""ImportId"":""QID398_PAGE_SUBMIT""}","{""ImportId"":""QID398_CLICK_COUNT""}","{""ImportId"":""QID400""}","{""ImportId"":""QID401_FIRST_CLICK""}","{""ImportId"":""QID401_LAST_CLICK""}","{""ImportId"":""QID401_PAGE_SUBMIT""}","{""ImportId"":""QID401_CLICK_COUNT""}","{""ImportId"":""QID403_FIRST_CLICK""}","{""ImportId"":""QID403_LAST_CLICK""}","{""ImportId"":""QID403_PAGE_SUBMIT""}","{""ImportId"":""QID403_CLICK_COUNT""}","{""ImportId"":""QID404_TEXT""}","{""ImportId"":""QID405_FIRST_CLICK""}","{""ImportId"":""QID405_LAST_CLICK""}","{""ImportId"":""QID405_PAGE_SUBMIT""}","{""ImportId"":""QID405_CLICK_COUNT""}","{""ImportId"":""QID406_TEXT""}","{""ImportId"":""QID407_FIRST_CLICK""}","{""ImportId"":""QID407_LAST_CLICK""}","{""ImportId"":""QID407_PAGE_SUBMIT""}","{""ImportId"":""QID407_CLICK_COUNT""}","{""ImportId"":""QID409_FIRST_CLICK""}","{""ImportId"":""QID409_LAST_CLICK""}","{""ImportId"":""QID409_PAGE_SUBMIT""}","{""ImportId"":""QID409_CLICK_COUNT""}","{""ImportId"":""QID411_FIRST_CLICK""}","{""ImportId"":""QID411_LAST_CLICK""}","{""ImportId"":""QID411_PAGE_SUBMIT""}","{""ImportId"":""QID411_CLICK_COUNT""}","{""ImportId"":""QID413_FIRST_CLICK""}","{""ImportId"":""QID413_LAST_CLICK""}","{""ImportId"":""QID413_PAGE_SUBMIT""}","{""ImportId"":""QID413_CLICK_COUNT""}","{""ImportId"":""QID415_FIRST_CLICK""}","{""ImportId"":""QID415_LAST_CLICK""}","{""ImportId"":""QID415_PAGE_SUBMIT""}","{""ImportId"":""QID415_CLICK_COUNT""}","{""ImportId"":""QID416_FILE_ID""}","{""ImportId"":""QID416_FILE_NAME""}","{""ImportId"":""QID416_FILE_SIZE""}","{""ImportId"":""QID416_FILE_TYPE""}","{""ImportId"":""QID190_FIRST_CLICK""}","{""ImportId"":""QID190_LAST_CLICK""}","{""ImportId"":""QID190_PAGE_SUBMIT""}","{""ImportId"":""QID190_CLICK_COUNT""}","{""ImportId"":""QID306""}","{""ImportId"":""QID192_FIRST_CLICK""}","{""ImportId"":""QID192_LAST_CLICK""}","{""ImportId"":""QID192_PAGE_SUBMIT""}","{""ImportId"":""QID192_CLICK_COUNT""}","{""ImportId"":""QID194_FIRST_CLICK""}","{""ImportId"":""QID194_LAST_CLICK""}","{""ImportId"":""QID194_PAGE_SUBMIT""}","{""ImportId"":""QID194_CLICK_COUNT""}","{""ImportId"":""QID195_TEXT""}","{""ImportId"":""QID196_FIRST_CLICK""}","{""ImportId"":""QID196_LAST_CLICK""}","{""ImportId"":""QID196_PAGE_SUBMIT""}","{""ImportId"":""QID196_CLICK_COUNT""}","{""ImportId"":""QID197_TEXT""}","{""ImportId"":""QID198_FIRST_CLICK""}","{""ImportId"":""QID198_LAST_CLICK""}","{""ImportId"":""QID198_PAGE_SUBMIT""}","{""ImportId"":""QID198_CLICK_COUNT""}","{""ImportId"":""QID200_FIRST_CLICK""}","{""ImportId"":""QID200_LAST_CLICK""}","{""ImportId"":""QID200_PAGE_SUBMIT""}","{""ImportId"":""QID200_CLICK_COUNT""}","{""ImportId"":""QID202_FIRST_CLICK""}","{""ImportId"":""QID202_LAST_CLICK""}","{""ImportId"":""QID202_PAGE_SUBMIT""}","{""ImportId"":""QID202_CLICK_COUNT""}","{""ImportId"":""QID206_FIRST_CLICK""}","{""ImportId"":""QID206_LAST_CLICK""}","{""ImportId"":""QID206_PAGE_SUBMIT""}","{""ImportId"":""QID206_CLICK_COUNT""}","{""ImportId"":""QID210_FIRST_CLICK""}","{""ImportId"":""QID210_LAST_CLICK""}","{""ImportId"":""QID210_PAGE_SUBMIT""}","{""ImportId"":""QID210_CLICK_COUNT""}","{""ImportId"":""QID211_FILE_ID""}","{""ImportId"":""QID211_FILE_NAME""}","{""ImportId"":""QID211_FILE_SIZE""}","{""ImportId"":""QID211_FILE_TYPE""}","{""ImportId"":""QID417_FIRST_CLICK""}","{""ImportId"":""QID417_LAST_CLICK""}","{""ImportId"":""QID417_PAGE_SUBMIT""}","{""ImportId"":""QID417_CLICK_COUNT""}","{""ImportId"":""QID419""}","{""ImportId"":""QID420_FIRST_CLICK""}","{""ImportId"":""QID420_LAST_CLICK""}","{""ImportId"":""QID420_PAGE_SUBMIT""}","{""ImportId"":""QID420_CLICK_COUNT""}","{""ImportId"":""QID422_FIRST_CLICK""}","{""ImportId"":""QID422_LAST_CLICK""}","{""ImportId"":""QID422_PAGE_SUBMIT""}","{""ImportId"":""QID422_CLICK_COUNT""}","{""ImportId"":""QID423_TEXT""}","{""ImportId"":""QID424_FIRST_CLICK""}","{""ImportId"":""QID424_LAST_CLICK""}","{""ImportId"":""QID424_PAGE_SUBMIT""}","{""ImportId"":""QID424_CLICK_COUNT""}","{""ImportId"":""QID425_TEXT""}","{""ImportId"":""QID426_FIRST_CLICK""}","{""ImportId"":""QID426_LAST_CLICK""}","{""ImportId"":""QID426_PAGE_SUBMIT""}","{""ImportId"":""QID426_CLICK_COUNT""}","{""ImportId"":""QID428_FIRST_CLICK""}","{""ImportId"":""QID428_LAST_CLICK""}","{""ImportId"":""QID428_PAGE_SUBMIT""}","{""ImportId"":""QID428_CLICK_COUNT""}","{""ImportId"":""QID430_FIRST_CLICK""}","{""ImportId"":""QID430_LAST_CLICK""}","{""ImportId"":""QID430_PAGE_SUBMIT""}","{""ImportId"":""QID430_CLICK_COUNT""}","{""ImportId"":""QID432_FIRST_CLICK""}","{""ImportId"":""QID432_LAST_CLICK""}","{""ImportId"":""QID432_PAGE_SUBMIT""}","{""ImportId"":""QID432_CLICK_COUNT""}","{""ImportId"":""QID434_FIRST_CLICK""}","{""ImportId"":""QID434_LAST_CLICK""}","{""ImportId"":""QID434_PAGE_SUBMIT""}","{""ImportId"":""QID434_CLICK_COUNT""}","{""ImportId"":""QID435_FILE_ID""}","{""ImportId"":""QID435_FILE_NAME""}","{""ImportId"":""QID435_FILE_SIZE""}","{""ImportId"":""QID435_FILE_TYPE""}","{""ImportId"":""QID354_FIRST_CLICK""}","{""ImportId"":""QID354_LAST_CLICK""}","{""ImportId"":""QID354_PAGE_SUBMIT""}","{""ImportId"":""QID354_CLICK_COUNT""}","{""ImportId"":""QID356""}","{""ImportId"":""QID357_FIRST_CLICK""}","{""ImportId"":""QID357_LAST_CLICK""}","{""ImportId"":""QID357_PAGE_SUBMIT""}","{""ImportId"":""QID357_CLICK_COUNT""}","{""ImportId"":""QID359_FIRST_CLICK""}","{""ImportId"":""QID359_LAST_CLICK""}","{""ImportId"":""QID359_PAGE_SUBMIT""}","{""ImportId"":""QID359_CLICK_COUNT""}","{""ImportId"":""QID360_TEXT""}","{""ImportId"":""QID361_FIRST_CLICK""}","{""ImportId"":""QID361_LAST_CLICK""}","{""ImportId"":""QID361_PAGE_SUBMIT""}","{""ImportId"":""QID361_CLICK_COUNT""}","{""ImportId"":""QID362_TEXT""}","{""ImportId"":""QID363_FIRST_CLICK""}","{""ImportId"":""QID363_LAST_CLICK""}","{""ImportId"":""QID363_PAGE_SUBMIT""}","{""ImportId"":""QID363_CLICK_COUNT""}","{""ImportId"":""QID365_FIRST_CLICK""}","{""ImportId"":""QID365_LAST_CLICK""}","{""ImportId"":""QID365_PAGE_SUBMIT""}","{""ImportId"":""QID365_CLICK_COUNT""}","{""ImportId"":""QID367_FIRST_CLICK""}","{""ImportId"":""QID367_LAST_CLICK""}","{""ImportId"":""QID367_PAGE_SUBMIT""}","{""ImportId"":""QID367_CLICK_COUNT""}","{""ImportId"":""QID369_FIRST_CLICK""}","{""ImportId"":""QID369_LAST_CLICK""}","{""ImportId"":""QID369_PAGE_SUBMIT""}","{""ImportId"":""QID369_CLICK_COUNT""}","{""ImportId"":""QID373_FIRST_CLICK""}","{""ImportId"":""QID373_LAST_CLICK""}","{""ImportId"":""QID373_PAGE_SUBMIT""}","{""ImportId"":""QID373_CLICK_COUNT""}","{""ImportId"":""QID374_FILE_ID""}","{""ImportId"":""QID374_FILE_NAME""}","{""ImportId"":""QID374_FILE_SIZE""}","{""ImportId"":""QID374_FILE_TYPE""}","{""ImportId"":""QID436_FIRST_CLICK""}","{""ImportId"":""QID436_LAST_CLICK""}","{""ImportId"":""QID436_PAGE_SUBMIT""}","{""ImportId"":""QID436_CLICK_COUNT""}","{""ImportId"":""QID438""}","{""ImportId"":""QID439_FIRST_CLICK""}","{""ImportId"":""QID439_LAST_CLICK""}","{""ImportId"":""QID439_PAGE_SUBMIT""}","{""ImportId"":""QID439_CLICK_COUNT""}","{""ImportId"":""QID441_FIRST_CLICK""}","{""ImportId"":""QID441_LAST_CLICK""}","{""ImportId"":""QID441_PAGE_SUBMIT""}","{""ImportId"":""QID441_CLICK_COUNT""}","{""ImportId"":""QID442_TEXT""}","{""ImportId"":""QID443_FIRST_CLICK""}","{""ImportId"":""QID443_LAST_CLICK""}","{""ImportId"":""QID443_PAGE_SUBMIT""}","{""ImportId"":""QID443_CLICK_COUNT""}","{""ImportId"":""QID444_TEXT""}","{""ImportId"":""QID445_FIRST_CLICK""}","{""ImportId"":""QID445_LAST_CLICK""}","{""ImportId"":""QID445_PAGE_SUBMIT""}","{""ImportId"":""QID445_CLICK_COUNT""}","{""ImportId"":""QID447_FIRST_CLICK""}","{""ImportId"":""QID447_LAST_CLICK""}","{""ImportId"":""QID447_PAGE_SUBMIT""}","{""ImportId"":""QID447_CLICK_COUNT""}","{""ImportId"":""QID449_FIRST_CLICK""}","{""ImportId"":""QID449_LAST_CLICK""}","{""ImportId"":""QID449_PAGE_SUBMIT""}","{""ImportId"":""QID449_CLICK_COUNT""}","{""ImportId"":""QID451_FIRST_CLICK""}","{""ImportId"":""QID451_LAST_CLICK""}","{""ImportId"":""QID451_PAGE_SUBMIT""}","{""ImportId"":""QID451_CLICK_COUNT""}","{""ImportId"":""QID453_FIRST_CLICK""}","{""ImportId"":""QID453_LAST_CLICK""}","{""ImportId"":""QID453_PAGE_SUBMIT""}","{""ImportId"":""QID453_CLICK_COUNT""}","{""ImportId"":""QID454_FILE_ID""}","{""ImportId"":""QID454_FILE_NAME""}","{""ImportId"":""QID454_FILE_SIZE""}","{""ImportId"":""QID454_FILE_TYPE""}","{""ImportId"":""QID146_FIRST_CLICK""}","{""ImportId"":""QID146_LAST_CLICK""}","{""ImportId"":""QID146_PAGE_SUBMIT""}","{""ImportId"":""QID146_CLICK_COUNT""}","{""ImportId"":""QID304""}","{""ImportId"":""QID148_FIRST_CLICK""}","{""ImportId"":""QID148_LAST_CLICK""}","{""ImportId"":""QID148_PAGE_SUBMIT""}","{""ImportId"":""QID148_CLICK_COUNT""}","{""ImportId"":""QID150_FIRST_CLICK""}","{""ImportId"":""QID150_LAST_CLICK""}","{""ImportId"":""QID150_PAGE_SUBMIT""}","{""ImportId"":""QID150_CLICK_COUNT""}","{""ImportId"":""QID151_TEXT""}","{""ImportId"":""QID152_FIRST_CLICK""}","{""ImportId"":""QID152_LAST_CLICK""}","{""ImportId"":""QID152_PAGE_SUBMIT""}","{""ImportId"":""QID152_CLICK_COUNT""}","{""ImportId"":""QID153_TEXT""}","{""ImportId"":""QID154_FIRST_CLICK""}","{""ImportId"":""QID154_LAST_CLICK""}","{""ImportId"":""QID154_PAGE_SUBMIT""}","{""ImportId"":""QID154_CLICK_COUNT""}","{""ImportId"":""QID156_FIRST_CLICK""}","{""ImportId"":""QID156_LAST_CLICK""}","{""ImportId"":""QID156_PAGE_SUBMIT""}","{""ImportId"":""QID156_CLICK_COUNT""}","{""ImportId"":""QID158_FIRST_CLICK""}","{""ImportId"":""QID158_LAST_CLICK""}","{""ImportId"":""QID158_PAGE_SUBMIT""}","{""ImportId"":""QID158_CLICK_COUNT""}","{""ImportId"":""QID160_FIRST_CLICK""}","{""ImportId"":""QID160_LAST_CLICK""}","{""ImportId"":""QID160_PAGE_SUBMIT""}","{""ImportId"":""QID160_CLICK_COUNT""}","{""ImportId"":""QID166_FIRST_CLICK""}","{""ImportId"":""QID166_LAST_CLICK""}","{""ImportId"":""QID166_PAGE_SUBMIT""}","{""ImportId"":""QID166_CLICK_COUNT""}","{""ImportId"":""QID167_FILE_ID""}","{""ImportId"":""QID167_FILE_NAME""}","{""ImportId"":""QID167_FILE_SIZE""}","{""ImportId"":""QID167_FILE_TYPE""}","{""ImportId"":""QID455_FIRST_CLICK""}","{""ImportId"":""QID455_LAST_CLICK""}","{""ImportId"":""QID455_PAGE_SUBMIT""}","{""ImportId"":""QID455_CLICK_COUNT""}","{""ImportId"":""QID457""}","{""ImportId"":""QID458_FIRST_CLICK""}","{""ImportId"":""QID458_LAST_CLICK""}","{""ImportId"":""QID458_PAGE_SUBMIT""}","{""ImportId"":""QID458_CLICK_COUNT""}","{""ImportId"":""QID460_FIRST_CLICK""}","{""ImportId"":""QID460_LAST_CLICK""}","{""ImportId"":""QID460_PAGE_SUBMIT""}","{""ImportId"":""QID460_CLICK_COUNT""}","{""ImportId"":""QID461_TEXT""}","{""ImportId"":""QID462_FIRST_CLICK""}","{""ImportId"":""QID462_LAST_CLICK""}","{""ImportId"":""QID462_PAGE_SUBMIT""}","{""ImportId"":""QID462_CLICK_COUNT""}","{""ImportId"":""QID463_TEXT""}","{""ImportId"":""QID464_FIRST_CLICK""}","{""ImportId"":""QID464_LAST_CLICK""}","{""ImportId"":""QID464_PAGE_SUBMIT""}","{""ImportId"":""QID464_CLICK_COUNT""}","{""ImportId"":""QID466_FIRST_CLICK""}","{""ImportId"":""QID466_LAST_CLICK""}","{""ImportId"":""QID466_PAGE_SUBMIT""}","{""ImportId"":""QID466_CLICK_COUNT""}","{""ImportId"":""QID468_FIRST_CLICK""}","{""ImportId"":""QID468_LAST_CLICK""}","{""ImportId"":""QID468_PAGE_SUBMIT""}","{""ImportId"":""QID468_CLICK_COUNT""}","{""ImportId"":""QID470_FIRST_CLICK""}","{""ImportId"":""QID470_LAST_CLICK""}","{""ImportId"":""QID470_PAGE_SUBMIT""}","{""ImportId"":""QID470_CLICK_COUNT""}","{""ImportId"":""QID472_FIRST_CLICK""}","{""ImportId"":""QID472_LAST_CLICK""}","{""ImportId"":""QID472_PAGE_SUBMIT""}","{""ImportId"":""QID472_CLICK_COUNT""}","{""ImportId"":""QID473_FILE_ID""}","{""ImportId"":""QID473_FILE_NAME""}","{""ImportId"":""QID473_FILE_SIZE""}","{""ImportId"":""QID473_FILE_TYPE""}","{""ImportId"":""QID80_FIRST_CLICK""}","{""ImportId"":""QID80_LAST_CLICK""}","{""ImportId"":""QID80_PAGE_SUBMIT""}","{""ImportId"":""QID80_CLICK_COUNT""}","{""ImportId"":""QID301""}","{""ImportId"":""QID82_FIRST_CLICK""}","{""ImportId"":""QID82_LAST_CLICK""}","{""ImportId"":""QID82_PAGE_SUBMIT""}","{""ImportId"":""QID82_CLICK_COUNT""}","{""ImportId"":""QID84_FIRST_CLICK""}","{""ImportId"":""QID84_LAST_CLICK""}","{""ImportId"":""QID84_PAGE_SUBMIT""}","{""ImportId"":""QID84_CLICK_COUNT""}","{""ImportId"":""QID85_TEXT""}","{""ImportId"":""QID86_FIRST_CLICK""}","{""ImportId"":""QID86_LAST_CLICK""}","{""ImportId"":""QID86_PAGE_SUBMIT""}","{""ImportId"":""QID86_CLICK_COUNT""}","{""ImportId"":""QID87_TEXT""}","{""ImportId"":""QID88_FIRST_CLICK""}","{""ImportId"":""QID88_LAST_CLICK""}","{""ImportId"":""QID88_PAGE_SUBMIT""}","{""ImportId"":""QID88_CLICK_COUNT""}","{""ImportId"":""QID90_FIRST_CLICK""}","{""ImportId"":""QID90_LAST_CLICK""}","{""ImportId"":""QID90_PAGE_SUBMIT""}","{""ImportId"":""QID90_CLICK_COUNT""}","{""ImportId"":""QID92_FIRST_CLICK""}","{""ImportId"":""QID92_LAST_CLICK""}","{""ImportId"":""QID92_PAGE_SUBMIT""}","{""ImportId"":""QID92_CLICK_COUNT""}","{""ImportId"":""QID94_FIRST_CLICK""}","{""ImportId"":""QID94_LAST_CLICK""}","{""ImportId"":""QID94_PAGE_SUBMIT""}","{""ImportId"":""QID94_CLICK_COUNT""}","{""ImportId"":""QID100_FIRST_CLICK""}","{""ImportId"":""QID100_LAST_CLICK""}","{""ImportId"":""QID100_PAGE_SUBMIT""}","{""ImportId"":""QID100_CLICK_COUNT""}","{""ImportId"":""QID101_FILE_ID""}","{""ImportId"":""QID101_FILE_NAME""}","{""ImportId"":""QID101_FILE_SIZE""}","{""ImportId"":""QID101_FILE_TYPE""}","{""ImportId"":""QID493_FIRST_CLICK""}","{""ImportId"":""QID493_LAST_CLICK""}","{""ImportId"":""QID493_PAGE_SUBMIT""}","{""ImportId"":""QID493_CLICK_COUNT""}","{""ImportId"":""QID495""}","{""ImportId"":""QID496_FIRST_CLICK""}","{""ImportId"":""QID496_LAST_CLICK""}","{""ImportId"":""QID496_PAGE_SUBMIT""}","{""ImportId"":""QID496_CLICK_COUNT""}","{""ImportId"":""QID498_FIRST_CLICK""}","{""ImportId"":""QID498_LAST_CLICK""}","{""ImportId"":""QID498_PAGE_SUBMIT""}","{""ImportId"":""QID498_CLICK_COUNT""}","{""ImportId"":""QID499_TEXT""}","{""ImportId"":""QID500_FIRST_CLICK""}","{""ImportId"":""QID500_LAST_CLICK""}","{""ImportId"":""QID500_PAGE_SUBMIT""}","{""ImportId"":""QID500_CLICK_COUNT""}","{""ImportId"":""QID501_TEXT""}","{""ImportId"":""QID502_FIRST_CLICK""}","{""ImportId"":""QID502_LAST_CLICK""}","{""ImportId"":""QID502_PAGE_SUBMIT""}","{""ImportId"":""QID502_CLICK_COUNT""}","{""ImportId"":""QID504_FIRST_CLICK""}","{""ImportId"":""QID504_LAST_CLICK""}","{""ImportId"":""QID504_PAGE_SUBMIT""}","{""ImportId"":""QID504_CLICK_COUNT""}","{""ImportId"":""QID506_FIRST_CLICK""}","{""ImportId"":""QID506_LAST_CLICK""}","{""ImportId"":""QID506_PAGE_SUBMIT""}","{""ImportId"":""QID506_CLICK_COUNT""}","{""ImportId"":""QID508_FIRST_CLICK""}","{""ImportId"":""QID508_LAST_CLICK""}","{""ImportId"":""QID508_PAGE_SUBMIT""}","{""ImportId"":""QID508_CLICK_COUNT""}","{""ImportId"":""QID510_FIRST_CLICK""}","{""ImportId"":""QID510_LAST_CLICK""}","{""ImportId"":""QID510_PAGE_SUBMIT""}","{""ImportId"":""QID510_CLICK_COUNT""}","{""ImportId"":""QID511_FILE_ID""}","{""ImportId"":""QID511_FILE_NAME""}","{""ImportId"":""QID511_FILE_SIZE""}","{""ImportId"":""QID511_FILE_TYPE""}","{""ImportId"":""QID124_FIRST_CLICK""}","{""ImportId"":""QID124_LAST_CLICK""}","{""ImportId"":""QID124_PAGE_SUBMIT""}","{""ImportId"":""QID124_CLICK_COUNT""}","{""ImportId"":""QID303""}","{""ImportId"":""QID126_FIRST_CLICK""}","{""ImportId"":""QID126_LAST_CLICK""}","{""ImportId"":""QID126_PAGE_SUBMIT""}","{""ImportId"":""QID126_CLICK_COUNT""}","{""ImportId"":""QID128_FIRST_CLICK""}","{""ImportId"":""QID128_LAST_CLICK""}","{""ImportId"":""QID128_PAGE_SUBMIT""}","{""ImportId"":""QID128_CLICK_COUNT""}","{""ImportId"":""QID129_TEXT""}","{""ImportId"":""QID130_FIRST_CLICK""}","{""ImportId"":""QID130_LAST_CLICK""}","{""ImportId"":""QID130_PAGE_SUBMIT""}","{""ImportId"":""QID130_CLICK_COUNT""}","{""ImportId"":""QID131_TEXT""}","{""ImportId"":""QID132_FIRST_CLICK""}","{""ImportId"":""QID132_LAST_CLICK""}","{""ImportId"":""QID132_PAGE_SUBMIT""}","{""ImportId"":""QID132_CLICK_COUNT""}","{""ImportId"":""QID134_FIRST_CLICK""}","{""ImportId"":""QID134_LAST_CLICK""}","{""ImportId"":""QID134_PAGE_SUBMIT""}","{""ImportId"":""QID134_CLICK_COUNT""}","{""ImportId"":""QID136_FIRST_CLICK""}","{""ImportId"":""QID136_LAST_CLICK""}","{""ImportId"":""QID136_PAGE_SUBMIT""}","{""ImportId"":""QID136_CLICK_COUNT""}","{""ImportId"":""QID138_FIRST_CLICK""}","{""ImportId"":""QID138_LAST_CLICK""}","{""ImportId"":""QID138_PAGE_SUBMIT""}","{""ImportId"":""QID138_CLICK_COUNT""}","{""ImportId"":""QID144_FIRST_CLICK""}","{""ImportId"":""QID144_LAST_CLICK""}","{""ImportId"":""QID144_PAGE_SUBMIT""}","{""ImportId"":""QID144_CLICK_COUNT""}","{""ImportId"":""QID145_FILE_ID""}","{""ImportId"":""QID145_FILE_NAME""}","{""ImportId"":""QID145_FILE_SIZE""}","{""ImportId"":""QID145_FILE_TYPE""}","{""ImportId"":""QID474_FIRST_CLICK""}","{""ImportId"":""QID474_LAST_CLICK""}","{""ImportId"":""QID474_PAGE_SUBMIT""}","{""ImportId"":""QID474_CLICK_COUNT""}","{""ImportId"":""QID476""}","{""ImportId"":""QID477_FIRST_CLICK""}","{""ImportId"":""QID477_LAST_CLICK""}","{""ImportId"":""QID477_PAGE_SUBMIT""}","{""ImportId"":""QID477_CLICK_COUNT""}","{""ImportId"":""QID479_FIRST_CLICK""}","{""ImportId"":""QID479_LAST_CLICK""}","{""ImportId"":""QID479_PAGE_SUBMIT""}","{""ImportId"":""QID479_CLICK_COUNT""}","{""ImportId"":""QID480_TEXT""}","{""ImportId"":""QID481_FIRST_CLICK""}","{""ImportId"":""QID481_LAST_CLICK""}","{""ImportId"":""QID481_PAGE_SUBMIT""}","{""ImportId"":""QID481_CLICK_COUNT""}","{""ImportId"":""QID482_TEXT""}","{""ImportId"":""QID483_FIRST_CLICK""}","{""ImportId"":""QID483_LAST_CLICK""}","{""ImportId"":""QID483_PAGE_SUBMIT""}","{""ImportId"":""QID483_CLICK_COUNT""}","{""ImportId"":""QID485_FIRST_CLICK""}","{""ImportId"":""QID485_LAST_CLICK""}","{""ImportId"":""QID485_PAGE_SUBMIT""}","{""ImportId"":""QID485_CLICK_COUNT""}","{""ImportId"":""QID487_FIRST_CLICK""}","{""ImportId"":""QID487_LAST_CLICK""}","{""ImportId"":""QID487_PAGE_SUBMIT""}","{""ImportId"":""QID487_CLICK_COUNT""}","{""ImportId"":""QID489_FIRST_CLICK""}","{""ImportId"":""QID489_LAST_CLICK""}","{""ImportId"":""QID489_PAGE_SUBMIT""}","{""ImportId"":""QID489_CLICK_COUNT""}","{""ImportId"":""QID491_FIRST_CLICK""}","{""ImportId"":""QID491_LAST_CLICK""}","{""ImportId"":""QID491_PAGE_SUBMIT""}","{""ImportId"":""QID491_CLICK_COUNT""}","{""ImportId"":""QID492_FILE_ID""}","{""ImportId"":""QID492_FILE_NAME""}","{""ImportId"":""QID492_FILE_SIZE""}","{""ImportId"":""QID492_FILE_TYPE""}","{""ImportId"":""QID29_FIRST_CLICK""}","{""ImportId"":""QID29_LAST_CLICK""}","{""ImportId"":""QID29_PAGE_SUBMIT""}","{""ImportId"":""QID29_CLICK_COUNT""}","{""ImportId"":""QID300""}","{""ImportId"":""QID34_FIRST_CLICK""}","{""ImportId"":""QID34_LAST_CLICK""}","{""ImportId"":""QID34_PAGE_SUBMIT""}","{""ImportId"":""QID34_CLICK_COUNT""}","{""ImportId"":""QID35_FIRST_CLICK""}","{""ImportId"":""QID35_LAST_CLICK""}","{""ImportId"":""QID35_PAGE_SUBMIT""}","{""ImportId"":""QID35_CLICK_COUNT""}","{""ImportId"":""QID65_TEXT""}","{""ImportId"":""QID37_FIRST_CLICK""}","{""ImportId"":""QID37_LAST_CLICK""}","{""ImportId"":""QID37_PAGE_SUBMIT""}","{""ImportId"":""QID37_CLICK_COUNT""}","{""ImportId"":""QID68_TEXT""}","{""ImportId"":""QID40_FIRST_CLICK""}","{""ImportId"":""QID40_LAST_CLICK""}","{""ImportId"":""QID40_PAGE_SUBMIT""}","{""ImportId"":""QID40_CLICK_COUNT""}","{""ImportId"":""QID45_FIRST_CLICK""}","{""ImportId"":""QID45_LAST_CLICK""}","{""ImportId"":""QID45_PAGE_SUBMIT""}","{""ImportId"":""QID45_CLICK_COUNT""}","{""ImportId"":""QID47_FIRST_CLICK""}","{""ImportId"":""QID47_LAST_CLICK""}","{""ImportId"":""QID47_PAGE_SUBMIT""}","{""ImportId"":""QID47_CLICK_COUNT""}","{""ImportId"":""QID72_FIRST_CLICK""}","{""ImportId"":""QID72_LAST_CLICK""}","{""ImportId"":""QID72_PAGE_SUBMIT""}","{""ImportId"":""QID72_CLICK_COUNT""}","{""ImportId"":""QID75_FIRST_CLICK""}","{""ImportId"":""QID75_LAST_CLICK""}","{""ImportId"":""QID75_PAGE_SUBMIT""}","{""ImportId"":""QID75_CLICK_COUNT""}","{""ImportId"":""QID43_FILE_ID""}","{""ImportId"":""QID43_FILE_NAME""}","{""ImportId"":""QID43_FILE_SIZE""}","{""ImportId"":""QID43_FILE_TYPE""}","{""ImportId"":""QID514_FIRST_CLICK""}","{""ImportId"":""QID514_LAST_CLICK""}","{""ImportId"":""QID514_PAGE_SUBMIT""}","{""ImportId"":""QID514_CLICK_COUNT""}","{""ImportId"":""QID516""}","{""ImportId"":""QID517_FIRST_CLICK""}","{""ImportId"":""QID517_LAST_CLICK""}","{""ImportId"":""QID517_PAGE_SUBMIT""}","{""ImportId"":""QID517_CLICK_COUNT""}","{""ImportId"":""QID519_FIRST_CLICK""}","{""ImportId"":""QID519_LAST_CLICK""}","{""ImportId"":""QID519_PAGE_SUBMIT""}","{""ImportId"":""QID519_CLICK_COUNT""}","{""ImportId"":""QID520_TEXT""}","{""ImportId"":""QID521_FIRST_CLICK""}","{""ImportId"":""QID521_LAST_CLICK""}","{""ImportId"":""QID521_PAGE_SUBMIT""}","{""ImportId"":""QID521_CLICK_COUNT""}","{""ImportId"":""QID522_TEXT""}","{""ImportId"":""QID523_FIRST_CLICK""}","{""ImportId"":""QID523_LAST_CLICK""}","{""ImportId"":""QID523_PAGE_SUBMIT""}","{""ImportId"":""QID523_CLICK_COUNT""}","{""ImportId"":""QID525_FIRST_CLICK""}","{""ImportId"":""QID525_LAST_CLICK""}","{""ImportId"":""QID525_PAGE_SUBMIT""}","{""ImportId"":""QID525_CLICK_COUNT""}","{""ImportId"":""QID527_FIRST_CLICK""}","{""ImportId"":""QID527_LAST_CLICK""}","{""ImportId"":""QID527_PAGE_SUBMIT""}","{""ImportId"":""QID527_CLICK_COUNT""}","{""ImportId"":""QID529_FIRST_CLICK""}","{""ImportId"":""QID529_LAST_CLICK""}","{""ImportId"":""QID529_PAGE_SUBMIT""}","{""ImportId"":""QID529_CLICK_COUNT""}","{""ImportId"":""QID531_FIRST_CLICK""}","{""ImportId"":""QID531_LAST_CLICK""}","{""ImportId"":""QID531_PAGE_SUBMIT""}","{""ImportId"":""QID531_CLICK_COUNT""}","{""ImportId"":""QID532_FILE_ID""}","{""ImportId"":""QID532_FILE_NAME""}","{""ImportId"":""QID532_FILE_SIZE""}","{""ImportId"":""QID532_FILE_TYPE""}","{""ImportId"":""QID278_FIRST_CLICK""}","{""ImportId"":""QID278_LAST_CLICK""}","{""ImportId"":""QID278_PAGE_SUBMIT""}","{""ImportId"":""QID278_CLICK_COUNT""}","{""ImportId"":""QID310""}","{""ImportId"":""QID280_FIRST_CLICK""}","{""ImportId"":""QID280_LAST_CLICK""}","{""ImportId"":""QID280_PAGE_SUBMIT""}","{""ImportId"":""QID280_CLICK_COUNT""}","{""ImportId"":""QID282_FIRST_CLICK""}","{""ImportId"":""QID282_LAST_CLICK""}","{""ImportId"":""QID282_PAGE_SUBMIT""}","{""ImportId"":""QID282_CLICK_COUNT""}","{""ImportId"":""QID283_TEXT""}","{""ImportId"":""QID284_FIRST_CLICK""}","{""ImportId"":""QID284_LAST_CLICK""}","{""ImportId"":""QID284_PAGE_SUBMIT""}","{""ImportId"":""QID284_CLICK_COUNT""}","{""ImportId"":""QID285_TEXT""}","{""ImportId"":""QID286_FIRST_CLICK""}","{""ImportId"":""QID286_LAST_CLICK""}","{""ImportId"":""QID286_PAGE_SUBMIT""}","{""ImportId"":""QID286_CLICK_COUNT""}","{""ImportId"":""QID288_FIRST_CLICK""}","{""ImportId"":""QID288_LAST_CLICK""}","{""ImportId"":""QID288_PAGE_SUBMIT""}","{""ImportId"":""QID288_CLICK_COUNT""}","{""ImportId"":""QID290_FIRST_CLICK""}","{""ImportId"":""QID290_LAST_CLICK""}","{""ImportId"":""QID290_PAGE_SUBMIT""}","{""ImportId"":""QID290_CLICK_COUNT""}","{""ImportId"":""QID292_FIRST_CLICK""}","{""ImportId"":""QID292_LAST_CLICK""}","{""ImportId"":""QID292_PAGE_SUBMIT""}","{""ImportId"":""QID292_CLICK_COUNT""}","{""ImportId"":""QID294_FIRST_CLICK""}","{""ImportId"":""QID294_LAST_CLICK""}","{""ImportId"":""QID294_PAGE_SUBMIT""}","{""ImportId"":""QID294_CLICK_COUNT""}","{""ImportId"":""QID299_FILE_ID""}","{""ImportId"":""QID299_FILE_NAME""}","{""ImportId"":""QID299_FILE_SIZE""}","{""ImportId"":""QID299_FILE_TYPE""}","{""ImportId"":""QID533_FIRST_CLICK""}","{""ImportId"":""QID533_LAST_CLICK""}","{""ImportId"":""QID533_PAGE_SUBMIT""}","{""ImportId"":""QID533_CLICK_COUNT""}","{""ImportId"":""QID535""}","{""ImportId"":""QID536_FIRST_CLICK""}","{""ImportId"":""QID536_LAST_CLICK""}","{""ImportId"":""QID536_PAGE_SUBMIT""}","{""ImportId"":""QID536_CLICK_COUNT""}","{""ImportId"":""QID538_FIRST_CLICK""}","{""ImportId"":""QID538_LAST_CLICK""}","{""ImportId"":""QID538_PAGE_SUBMIT""}","{""ImportId"":""QID538_CLICK_COUNT""}","{""ImportId"":""QID539_TEXT""}","{""ImportId"":""QID540_FIRST_CLICK""}","{""ImportId"":""QID540_LAST_CLICK""}","{""ImportId"":""QID540_PAGE_SUBMIT""}","{""ImportId"":""QID540_CLICK_COUNT""}","{""ImportId"":""QID541_TEXT""}","{""ImportId"":""QID542_FIRST_CLICK""}","{""ImportId"":""QID542_LAST_CLICK""}","{""ImportId"":""QID542_PAGE_SUBMIT""}","{""ImportId"":""QID542_CLICK_COUNT""}","{""ImportId"":""QID544_FIRST_CLICK""}","{""ImportId"":""QID544_LAST_CLICK""}","{""ImportId"":""QID544_PAGE_SUBMIT""}","{""ImportId"":""QID544_CLICK_COUNT""}","{""ImportId"":""QID546_FIRST_CLICK""}","{""ImportId"":""QID546_LAST_CLICK""}","{""ImportId"":""QID546_PAGE_SUBMIT""}","{""ImportId"":""QID546_CLICK_COUNT""}","{""ImportId"":""QID548_FIRST_CLICK""}","{""ImportId"":""QID548_LAST_CLICK""}","{""ImportId"":""QID548_PAGE_SUBMIT""}","{""ImportId"":""QID548_CLICK_COUNT""}","{""ImportId"":""QID550_FIRST_CLICK""}","{""ImportId"":""QID550_LAST_CLICK""}","{""ImportId"":""QID550_PAGE_SUBMIT""}","{""ImportId"":""QID550_CLICK_COUNT""}","{""ImportId"":""QID551_FILE_ID""}","{""ImportId"":""QID551_FILE_NAME""}","{""ImportId"":""QID551_FILE_SIZE""}","{""ImportId"":""QID551_FILE_TYPE""}","{""ImportId"":""QID168_FIRST_CLICK""}","{""ImportId"":""QID168_LAST_CLICK""}","{""ImportId"":""QID168_PAGE_SUBMIT""}","{""ImportId"":""QID168_CLICK_COUNT""}","{""ImportId"":""QID305""}","{""ImportId"":""QID170_FIRST_CLICK""}","{""ImportId"":""QID170_LAST_CLICK""}","{""ImportId"":""QID170_PAGE_SUBMIT""}","{""ImportId"":""QID170_CLICK_COUNT""}","{""ImportId"":""QID172_FIRST_CLICK""}","{""ImportId"":""QID172_LAST_CLICK""}","{""ImportId"":""QID172_PAGE_SUBMIT""}","{""ImportId"":""QID172_CLICK_COUNT""}","{""ImportId"":""QID173_TEXT""}","{""ImportId"":""QID174_FIRST_CLICK""}","{""ImportId"":""QID174_LAST_CLICK""}","{""ImportId"":""QID174_PAGE_SUBMIT""}","{""ImportId"":""QID174_CLICK_COUNT""}","{""ImportId"":""QID175_TEXT""}","{""ImportId"":""QID176_FIRST_CLICK""}","{""ImportId"":""QID176_LAST_CLICK""}","{""ImportId"":""QID176_PAGE_SUBMIT""}","{""ImportId"":""QID176_CLICK_COUNT""}","{""ImportId"":""QID178_FIRST_CLICK""}","{""ImportId"":""QID178_LAST_CLICK""}","{""ImportId"":""QID178_PAGE_SUBMIT""}","{""ImportId"":""QID178_CLICK_COUNT""}","{""ImportId"":""QID180_FIRST_CLICK""}","{""ImportId"":""QID180_LAST_CLICK""}","{""ImportId"":""QID180_PAGE_SUBMIT""}","{""ImportId"":""QID180_CLICK_COUNT""}","{""ImportId"":""QID182_FIRST_CLICK""}","{""ImportId"":""QID182_LAST_CLICK""}","{""ImportId"":""QID182_PAGE_SUBMIT""}","{""ImportId"":""QID182_CLICK_COUNT""}","{""ImportId"":""QID188_FIRST_CLICK""}","{""ImportId"":""QID188_LAST_CLICK""}","{""ImportId"":""QID188_PAGE_SUBMIT""}","{""ImportId"":""QID188_CLICK_COUNT""}","{""ImportId"":""QID189_FILE_ID""}","{""ImportId"":""QID189_FILE_NAME""}","{""ImportId"":""QID189_FILE_SIZE""}","{""ImportId"":""QID189_FILE_TYPE""}","{""ImportId"":""QID552_FIRST_CLICK""}","{""ImportId"":""QID552_LAST_CLICK""}","{""ImportId"":""QID552_PAGE_SUBMIT""}","{""ImportId"":""QID552_CLICK_COUNT""}","{""ImportId"":""QID554""}","{""ImportId"":""QID555_FIRST_CLICK""}","{""ImportId"":""QID555_LAST_CLICK""}","{""ImportId"":""QID555_PAGE_SUBMIT""}","{""ImportId"":""QID555_CLICK_COUNT""}","{""ImportId"":""QID557_FIRST_CLICK""}","{""ImportId"":""QID557_LAST_CLICK""}","{""ImportId"":""QID557_PAGE_SUBMIT""}","{""ImportId"":""QID557_CLICK_COUNT""}","{""ImportId"":""QID558_TEXT""}","{""ImportId"":""QID559_FIRST_CLICK""}","{""ImportId"":""QID559_LAST_CLICK""}","{""ImportId"":""QID559_PAGE_SUBMIT""}","{""ImportId"":""QID559_CLICK_COUNT""}","{""ImportId"":""QID560_TEXT""}","{""ImportId"":""QID561_FIRST_CLICK""}","{""ImportId"":""QID561_LAST_CLICK""}","{""ImportId"":""QID561_PAGE_SUBMIT""}","{""ImportId"":""QID561_CLICK_COUNT""}","{""ImportId"":""QID563_FIRST_CLICK""}","{""ImportId"":""QID563_LAST_CLICK""}","{""ImportId"":""QID563_PAGE_SUBMIT""}","{""ImportId"":""QID563_CLICK_COUNT""}","{""ImportId"":""QID565_FIRST_CLICK""}","{""ImportId"":""QID565_LAST_CLICK""}","{""ImportId"":""QID565_PAGE_SUBMIT""}","{""ImportId"":""QID565_CLICK_COUNT""}","{""ImportId"":""QID567_FIRST_CLICK""}","{""ImportId"":""QID567_LAST_CLICK""}","{""ImportId"":""QID567_PAGE_SUBMIT""}","{""ImportId"":""QID567_CLICK_COUNT""}","{""ImportId"":""QID569_FIRST_CLICK""}","{""ImportId"":""QID569_LAST_CLICK""}","{""ImportId"":""QID569_PAGE_SUBMIT""}","{""ImportId"":""QID569_CLICK_COUNT""}","{""ImportId"":""QID570_FILE_ID""}","{""ImportId"":""QID570_FILE_NAME""}","{""ImportId"":""QID570_FILE_SIZE""}","{""ImportId"":""QID570_FILE_TYPE""}","{""ImportId"":""QID212_FIRST_CLICK""}","{""ImportId"":""QID212_LAST_CLICK""}","{""ImportId"":""QID212_PAGE_SUBMIT""}","{""ImportId"":""QID212_CLICK_COUNT""}","{""ImportId"":""QID307""}","{""ImportId"":""QID214_FIRST_CLICK""}","{""ImportId"":""QID214_LAST_CLICK""}","{""ImportId"":""QID214_PAGE_SUBMIT""}","{""ImportId"":""QID214_CLICK_COUNT""}","{""ImportId"":""QID216_FIRST_CLICK""}","{""ImportId"":""QID216_LAST_CLICK""}","{""ImportId"":""QID216_PAGE_SUBMIT""}","{""ImportId"":""QID216_CLICK_COUNT""}","{""ImportId"":""QID217_TEXT""}","{""ImportId"":""QID218_FIRST_CLICK""}","{""ImportId"":""QID218_LAST_CLICK""}","{""ImportId"":""QID218_PAGE_SUBMIT""}","{""ImportId"":""QID218_CLICK_COUNT""}","{""ImportId"":""QID219_TEXT""}","{""ImportId"":""QID220_FIRST_CLICK""}","{""ImportId"":""QID220_LAST_CLICK""}","{""ImportId"":""QID220_PAGE_SUBMIT""}","{""ImportId"":""QID220_CLICK_COUNT""}","{""ImportId"":""QID222_FIRST_CLICK""}","{""ImportId"":""QID222_LAST_CLICK""}","{""ImportId"":""QID222_PAGE_SUBMIT""}","{""ImportId"":""QID222_CLICK_COUNT""}","{""ImportId"":""QID224_FIRST_CLICK""}","{""ImportId"":""QID224_LAST_CLICK""}","{""ImportId"":""QID224_PAGE_SUBMIT""}","{""ImportId"":""QID224_CLICK_COUNT""}","{""ImportId"":""QID226_FIRST_CLICK""}","{""ImportId"":""QID226_LAST_CLICK""}","{""ImportId"":""QID226_PAGE_SUBMIT""}","{""ImportId"":""QID226_CLICK_COUNT""}","{""ImportId"":""QID232_FIRST_CLICK""}","{""ImportId"":""QID232_LAST_CLICK""}","{""ImportId"":""QID232_PAGE_SUBMIT""}","{""ImportId"":""QID232_CLICK_COUNT""}","{""ImportId"":""QID233_FILE_ID""}","{""ImportId"":""QID233_FILE_NAME""}","{""ImportId"":""QID233_FILE_SIZE""}","{""ImportId"":""QID233_FILE_TYPE""}","{""ImportId"":""QID573""}","{""ImportId"":""QID587""}","{""ImportId"":""QID588""}","{""ImportId"":""QID589""}","{""ImportId"":""QID590_1""}","{""ImportId"":""QID591""}","{""ImportId"":""QID592""}","{""ImportId"":""QID593""}","{""ImportId"":""QID594""}","{""ImportId"":""QID595_1""}","{""ImportId"":""QID596_TEXT""}","{""ImportId"":""PROLIFIC_PID""}","{""ImportId"":""Group""}","{""ImportId"":""ChartType""}"
+2024-11-28 20:58:52,2024-11-28 21:40:04,IP Address,99.239.114.237,100,2472,True,2024-11-28 21:40:05,R_3YLGDdlKurdm4Hq,,,,,43.64,-79.433,anonymous,EN,I consent,24,Male,Bachelor's Degree,Computer Science,Occasionally (1-2 times per week),Occasionally (a few times a year),"A,V","R,A,K","K,R","A,R","V,K","A,K","V,K",V,"A,V","V,K","R,K","K,V","V,K","V,K","V,K","V,R",I Understand,41.429,41.429,47.462,1,I have watched the video and understand the content.,continue,12.677,50.671,51.221,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,5,6,6,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,5,6,6,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20.406,20.406,44.819,1,Somewhat familiar – I know what this chart looks like and understand its basic purpose.,2.113,52.397,56.747,5,34.564,34.564,60.408,1,"""Central Park Area""
+""Main Street""
+""Businss Distirt""",124.957,124.957,127.927,1,7,1.699,26.741,29.185,3,4.974,56.961,60.76,3,90.129,266.311,270.242,3,29.674,46.335,48.461,3,20.118,30.46,43.201,8,F_uwT1FDNQHKF7EDD,signature.png,8433,image/png,137.43,137.43,139.47,1,Fairly familiar – I can interpret this chart and use it to understand data.,1.657,8.7,10.62,3,9.312,9.312,103.099,1,"Main Street, Business District, Central Park Area",6.015,8.951,11.03,2,7,19.254,24.539,26.457,3,1.602,11.635,13.65,3,1.051,14.631,16.622,3,1.019,9.454,11.157,3,4.625,11.308,12.404,6,F_3DnZAwSAlBAJpap,signature.png,9124,image/png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,A,A,7,,,,,,,,1,Treemap
+2024-11-29 20:39:30,2024-11-29 20:56:15,IP Address,108.208.66.53,100,1004,True,2024-11-29 20:56:16,R_68Br8IqUfCGCwHT,,,,,42.4986,-83.4792,anonymous,EN,I consent,33,Male,Master's degree,Business,Frequently (3-4 times per week),Very frequently (each week),"R,K","R,V,A,K","K,R,A","A,V","R,V,A,K","A,R,V,K","V,K,A,R","V,K","V,K,R","V,R,A,K","A,K,V","K,R,A","V,K,A","V,K,R","R,V,K,A","V,A",I Understand,31.159,31.159,34.129,1,I have watched the video and understand the content.,continue,10.072,13.846,34.588,2,F_3HUGxcP5IZGWDOG,signature.png,30321,image/png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,4,4,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,4,4,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.918,9.198,10.743,2,Fairly familiar – I can interpret this chart and use it to understand data.,16.009,45.704,46.809,3,6.28,6.28,18.866,1,It seems better and easier to understand now,17.052,17.052,20.098,1,6,14.027,19.001,20.064,2,1.735,12.491,13.561,4,1.891,4.517,5.585,2,1.802,11.431,12.601,2,3.37,35.78,44.235,8,F_UF27NyyHv4n3r0d,signature.png,15564,image/png,11.596,11.596,14.169,1,Fairly familiar – I can interpret this chart and use it to understand data.,11.149,60.36,62.451,2,8.804,8.804,34.699,1,Frozen foods is blue therefore it is cold,23.937,23.937,26.917,1,1,33.018,65.204,66.418,2,19.524,38.875,40.076,4,11.081,28.929,30.122,3,23.242,45.741,46.858,3,6.638,27.339,29.561,5,F_wWW5DP6GMw2r54Z,signature.png,11630,image/png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,B,B,B,4,None,63e5398f41724eb9c5dff512,2,Heatmap
+2024-11-29 20:37:26,2024-11-29 21:03:59,IP Address,148.75.216.79,100,1593,True,2024-11-29 21:04:01,R_6BbRi2lKipR0837,,,,,40.6739,-73.9358,anonymous,EN,I consent,25,Male,Bachelor's Degree,unemployed,Rarely or Never,Rarely (once a year),R,"R,A,K","K,A",A,"R,V,A,K","A,R,V,K","K,A,R","R,K,A","A,V,K,R","R,A,K","A,R,K","K,R,A","R,K,A","A,K,R","R,K,A","K,R,A",I Understand,3.906,73.543,74.321,2,I have watched the video and understand the content.,continue,13.055,62.33,65.8,31,F_2E4atoBlNYA5mGW,signature.png,13483,image/png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,5,2,1,1,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.411,22.483,22.762,11,"Slightly familiar – I've seen this chart, but I don't really understand it.",7.95,59.408,64.218,5,4.253,12.392,31.921,2,"main street, business district, central park area, downtown",1.463,12.618,20.131,3,6?,10.673,59.04,61.717,5,3.564,46.276,48.219,21,29.756,46.829,48.594,5,6.753,36.222,38.899,3,23.599,66.941,75.868,13,F_10PE0cGHpLoxwX5,signature.png,9556,image/png,7.465,8.523,8.838,2,Somewhat familiar – I know what this chart looks like and understand its basic purpose.,4.92,40.52,42.6,6,8.426,8.426,30.101,1,"main street, business district, central park",12.46,16.982,24.054,2,7,11.35,75.473,79.916,3,7.143,11.445,13.281,3,10.756,54.161,57.549,3,3.472,35.192,37.776,3,5.939,35.235,36.65,8,F_ZvEtkEErtmO3fu9,signature.png,18609,image/png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,B,B,B,7,,,,,,,5e600f78c0bc8634cbe671ed,1,Treemap
+2024-11-29 20:40:13,2024-11-29 21:08:59,IP Address,89.187.177.74,100,1725,True,2024-11-29 21:09:00,R_7nillrKmCYnuY4F,,,,,40.7123,-74.0068,anonymous,EN,I consent,21,Male,College or Associate's Degree,Computer Science,Occasionally (1-2 times per week),Occasionally (a few times a year),V,K,R,"A,R","V,A,K",V,"V,K","R,V","V,K,R","R,A,K","K,V",R,"R,V,K","V,K,R",K,K,I Understand,27.547,65.601,67.988,4,I have watched the video and understand the content.,continue,0.874,73.173,74.251,24,F_2tL6V9DFfreM2nj,signature.png,22677,image/png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,6,4,1,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,7,4,1,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10.214,19.531,21.904,4,Fairly familiar – I can interpret this chart and use it to understand data.,73.237,234.924,237.478,15,13.434,90.652,92.594,16,"The star is around roughly Right Ascension = 30, and Descension = 70",15.989,20.204,22.174,3,9,10.332,81.891,83.362,4,5.945,8.9,10.231,2,1.565,14.008,15.515,6,5.573,33.019,34.62,4,18.16,43.029,44.764,9,F_3nTLuoAQtsiR6Ud,signature.png,5739,image/png,2.644,19.198,19.802,13,Fairly familiar – I can interpret this chart and use it to understand data.,11.478,37.342,51.471,3,20.97,44.831,45.569,8,"D = 55, RA = 35",26.994,33.517,35.319,3,9,3.829,29.114,30.56,7,2.285,7.297,8.946,2,5.318,9.748,38.451,2,50.179,80.161,81.653,10,10.356,33.532,34.276,13,F_1P7AzMXrT5laNl8,signature.png,5462,image/png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B,B,B,B,7,,,,,,n/a,66e784bf7e22eae95ee3b5c7,1,BubbleChart
+2024-11-29 20:55:25,2024-11-29 21:20:34,IP Address,64.42.156.170,100,1508,True,2024-11-29 21:20:36,R_5IZrF4u6sYtZnUt,,,,,30.3214,-93.205,anonymous,EN,I consent,46,Female,High School or below,homemaker/retired,Rarely or Never,Rarely (once a year),"A,V","R,K","K,R","A,R",K,"A,K","K,A,R","R,K,A","A,K,R","A,K",A,"K,R,A","K,A","K,R","K,A","K,R,A",I Understand,61.201,61.201,62.506,1,I have watched the video and understand the content.,continue,51.988,97.435,97.99,18,F_cBFhLGA2dCHMN4B,signature.png,14966,image/png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,7,2,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.537,21.537,23.326,1,Somewhat familiar – I know what this chart looks like and understand its basic purpose.,10.829,41.709,43.651,4,14.177,14.177,30.314,1,B has the highest number of students.,16.413,16.413,30.627,1,Nine total students,16.337,27.393,28.934,3,17.225,30.178,31.876,3,11.901,27.403,29.309,3,4.801,24.535,26.371,4,23.011,108.354,110.306,25,F_26nbBO0sA967yyh,signature.png,9492,image/png,11.157,11.157,13.348,1,Somewhat familiar – I know what this chart looks like and understand its basic purpose.,23.604,88.7,91.693,7,20.194,20.194,39.234,1,B has the highest number of students.,13.813,13.813,43.197,1,9 is the total of A and C,17.028,38.508,40.18,4,33.126,53.198,54.707,4,12.111,48.36,50.057,4,29.68,96.048,97.276,2,38.739,113.81,114.433,10,F_2D2BVPvjz4MtyYT,signature.png,10736,image/png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Click to write Choice 3,A,Click to write Choice 3,A,7,"Interesting study, thanks!",670efc8f27af6732888de1d8,2,Histogram
+2024-11-29 20:38:53,2024-11-29 21:23:36,IP Address,135.134.244.250,100,2683,True,2024-11-29 21:23:38,R_3JK1Qjo9edwOQkp,,,,,43.9001,-91.2276,anonymous,EN,I consent,44,Female,College or Associate's Degree,Degree will be in Accounting. I'm currently working a part time retail position.,Occasionally (1-2 times per week),Never,A,"A,K","V,K,R","A,K,V,R","R,V,A,K","R,V",R,"R,V,K,A","V,K,R","V,R,K",V,"K,R","R,V,K","V,K,R","R,V,K,A","V,K,R",I Understand,44.009,44.009,47.301,1,I have watched the video and understand the content.,continue,65.359,73.982,76.774,8,F_1d0PeprMM7XlGic,signature.png,12442,image/png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,4,6,3,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,5,5,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,53.11,53.11,55.067,1,Not familiar at all – I've never seen or heard of this chart before.,56.691,164.83,186.775,5,11.846,11.846,82.616,1,"Medical Science, Life Science, Earth Science, Physics, Chemistry, Mathematics, Statistics, Computer Science",80.244,81.21,242.405,2,"Arts and business look almost tied. Arts looks like less, but that might be because of more lines.",46.897,101.823,105.588,3,27.323,46.832,49.012,3,14.602,42.504,45.268,3,17.276,61.895,64.961,3,161.418,243.475,245.239,9,F_sbdJjLkg4ABNzMt,signature.png,20814,image/png,24.013,24.013,26.74,1,Not familiar at all – I've never seen or heard of this chart before.,14.782,98.514,103.268,3,21.7,57.777,92.669,2,"Biological Science, Physical Science, Math & Computer Science",26.882,26.882,97.566,1,"Art Majors. Performing, Fine Arts and Literature are a smaller group than listed for Science or Business.",25.624,73.219,76.305,3,17.731,29.418,31.505,3,13.822,35.392,37.803,4,32.278,51.848,54.137,3,31.108,58.693,63.504,11,F_1oHjVM5XNNpkyYI,signature.png,22100,image/png,B,B,B,B,5,,,,,,,6749e46bcb9ed9b85c826e25,1,Sunburst
+2024-11-29 20:50:45,2024-11-29 21:26:50,IP Address,70.180.144.188,100,2164,True,2024-11-29 21:26:51,R_15ptUxyGBhveCul,,,,,36.0574,-115.3213,anonymous,EN,I consent,31,Male,College or Associate's Degree,Film,Almost daily or daily,Regularly (each month),"R,A","R,V,A,K","V,K,R,A","A,K,V,R","R,V,A,K","A,R,V,K","V,K,A,R","R,V,K,A","A,V,K,R","V,R,A,K","A,R,K,V","K,V,R,A","R,V,K,A","V,K,R","R,V,K","V,K,R,A",I Understand,4.135,76.393,77.45,3,I have watched the video and understand the content.,continue,15.713,102.781,104.399,29,F_2qfLbo1UGxaRmaA,signature.png,19090,image/png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,5,4,3,4,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11.773,33.505,34.79,10,Somewhat familiar – I know what this chart looks like and understand its basic purpose.,9.18,67.597,69.287,7,1.466,45.956,47.68,4,-14,31.257,61.783,72.97,5,10,88.469,141.763,142.781,7,30.28,41.752,42.568,3,16.95,73.245,74.052,2,47.899,161.601,162.428,7,11.626,66.589,67.484,18,F_2yk3d7O18UCF8Rt,signature.png,7167,image/png,12.765,24.743,25.28,6,Very familiar – I can interpret this chart easily and explain it to others.,7.701,43.52,44.376,4,26.215,50.307,51.58,4,"screw number #5, with 14 CM ",14.08,18.705,19.757,3,10 CM,9.433,65.52,66.354,8,17.941,34.746,35.618,3,18.394,57.901,58.763,4,14.899,41.137,41.952,3,5.481,46.819,48.828,28,F_vj0lnWtiasfLiV3,signature.png,8422,image/png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Click to write Choice 3,Click to write Choice 3,A,A,7,,,,,,,673ceb3785d9f0cf6fad539d,1,ButterflyChart
+2024-11-29 20:40:57,2024-11-29 21:39:13,IP Address,72.193.37.189,100,3496,True,2024-11-29 21:39:14,R_3thQSQ7KoCvbPsC,,,,,36.1682,-115.2166,anonymous,EN,I consent,31,Male,Master's degree,Health care (Biomedical Equipment Technician),Frequently (3-4 times per week),Regularly (each month),"R,A","R,V,A,K","K,R","A,R","V,K","V,K","V,K",A,"A,K","V,A",K,R,"R,A","V,K,R","K,A",R,I Understand,58.853,58.853,60.12,1,I have watched the video and understand the content.,,63.166,98.962,101.316,14,F_1l9W4zI5bAxK6ih,signature.png,9310,image/png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,2,7,4,6,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,5,7,3,3,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,39.769,39.769,41.789,1,Fairly familiar – I can interpret this chart and use it to understand data.,57.933,228.517,229.496,5,108.702,156.646,161.219,2,"City center, business, commercial and administrative.",55.029,55.029,61.456,1,4 routes,21.67,170.422,171.397,11,12.656,28.176,29.077,3,8.414,104.958,105.827,10,9.559,68.343,69.195,4,7.453,36.031,39.873,5,F_25LyvidXOi20N8n,signature.png,6470,image/png,49.48,49.48,50.883,1,Fairly familiar – I can interpret this chart and use it to understand data.,76.623,181.799,183.608,4,87.206,207.334,211.538,7,"City center and business district, and the administrative area ",66.454,69.39,73.633,2,4 routes,278.647,512.823,513.762,6,5.908,51.689,52.571,5,57.702,353.54,354.552,16,65.884,183.428,184.288,5,21.216,110.001,134.46,18,F_OrNlKgiuIp4z561,signature.png,7037,image/png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,A,A,3,None,674a3d0139976ab4ec92aea5,2,Sankey
+2024-11-29 21:23:13,2024-11-29 21:50:11,IP Address,66.188.60.125,100,1618,True,2024-11-29 21:50:13,R_1QLCDRznTgxMSVc,,,,,42.7893,-83.7135,anonymous,EN,I consent,28,Male,Bachelor's Degree,Account Management,Occasionally (1-2 times per week),Occasionally (a few times a year),A,"R,A","V,K,R,A","A,V,R","R,V,A,K","R,K","V,K","V,A","A,V","A,K","A,V","V,R",R,"K,R","R,V,K,A","K,R",I Understand,23.672,50.551,51.651,4,I have watched the video and understand the content.,continue,25.064,53.395,53.664,20,F_2X1yWs2K34AqtEW,signature.png,15087,image/png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,2,2,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,6,2,2,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12.396,12.396,16,1,Fairly familiar – I can interpret this chart and use it to understand data.,4.679,36.23,41.522,3,4.144,26.196,46.795,4,"Screw #5 is the deepest into the wall at 14 (I assume cm, but cannot confidently say as that is not provided).",6.357,10.027,39.651,2,"Total length appears to be 20 (assuming cm, but not 100% sure).",3.08,34.123,39.399,3,15.153,28.414,31.22,3,1.59,17.689,20.949,3,6.612,30.864,35.206,3,3.838,28.864,39.719,5,F_2qpXOjNaUopfK9N,signature.png,7101,image/png,14.562,14.562,18.786,1,Fairly familiar – I can interpret this chart and use it to understand data.,55.848,95.7,103.856,3,6.149,10.48,44.341,4,Screw 5 penetrates the deepest into the wall at roughly 14cm.,5.252,27.478,27.818,6,The total length of Screw 6 appears to be 20cm.,32.846,71.6,76.471,7,16.106,59.346,62.103,14,10.915,33.134,35.746,4,16.154,46.652,51.547,5,8.328,45.576,50.186,7,F_2bIwPg64hTVT42N,signature.png,7641,image/png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,A,A,4,,6706e3b9a21f4ae501fce8df,2,ButterflyChart
+2024-11-29 20:51:17,2024-11-29 22:15:03,IP Address,172.117.36.119,100,5026,True,2024-11-29 22:15:04,R_5Ev696L4L7xqSg5,,,,,34.043,-117.7556,anonymous,EN,I consent,27,Female,Bachelor's Degree,education,Occasionally (1-2 times per week),Occasionally (a few times a year),R,A,"K,R","A,K","V,A",K,"V,A",R,A,R,"A,K",V,"R,V",V,V,"K,R",I Understand,29.006,29.006,33.579,1,I have watched the video and understand the content.,,38,68.189,130.588,6,F_305J3cx2YWkBDII,signature.png,9165,image/png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,6,3,4,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,4,3,4,3,4,30.456,30.456,32.161,1,Not familiar at all – I've never seen or heard of this chart before.,2.157,59.207,60.21,2,26.009,26.009,39.767,1,17,21.534,21.534,27.054,1,17,1.794,15.049,15.952,2,1.538,15.524,16.462,2,2.568,14.436,15.336,3,25.312,119.674,120.591,2,25.109,124.538,126.378,22,F_3DwEQ5QQbMNWmag,signature.png,9248,image/png,14.366,14.366,16.322,1,Not familiar at all – I've never seen or heard of this chart before.,6.685,76.386,78.191,5,4.35,12.832,21.893,2,final height is 12,18.495,18.495,23.085,1,12,4.853,18.858,19.776,2,1.81,50.961,51.883,6,1.889,26.028,27.015,3,3.769,56.739,57.658,2,40.856,128.083,132.111,14,F_1I5FT1YL9m66P7u,signature.png,9640,image/png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,A,B,3,,5d96eeed1998fb00177f6b71,2,Waterfall
+2024-11-29 23:23:59,2024-11-30 00:12:48,IP Address,98.255.239.176,100,2929,True,2024-11-30 00:12:49,R_1c7OEKpSmrxga8l,,,,,38.4207,-121.3623,anonymous,EN,I consent,26,Male,Bachelor's Degree,IT,Occasionally (1-2 times per week),Regularly (each month),A,"R,V,A,K","V,R","A,V,R","V,K","A,K","V,K,A,R","R,K,A","A,V,K,R","V,R,A,K","K,V",K,"K,A","V,K,R","V,K","V,K",I Understand,101.589,101.589,146.002,1,I have watched the video and understand the content.,,71.321,74.66,127.848,4,F_2do0i0UQvMODL65,signature.png,9045,image/png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,5,4,5,1,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,4,5,6,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7.683,7.683,10.244,1,Fairly familiar – I can interpret this chart and use it to understand data.,3.538,23.506,26.624,3,3.752,8.344,11.25,2,Pinnacle Heights,73.704,100.267,102.702,2,226m,33.094,52.551,55.966,3,10.336,40.056,44.952,3,13.919,34.727,37.178,5,57.931,68.789,70.667,4,78.47,98.138,101.742,29,F_2f1aCNZfaVwW6YJ,signature.png,11965,image/png,30.173,35.645,80.705,3,Very familiar – I can interpret this chart easily and explain it to others.,9.488,27.274,30.979,3,37.264,37.264,44.871,1,Pinnacle Heights,50.824,50.824,59.298,1,over twice as tall,27.462,40.675,43.191,3,130.87,147.088,150.15,3,18.506,35.564,37.986,5,5.4,15.509,17.575,3,18.618,56.872,59.741,5,F_3KxPGE38zNJxb46,signature.png,22167,image/png,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,A,B,A,3,,5c50046b2b89f500015e5f6b,2,BarChart
