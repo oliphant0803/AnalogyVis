@@ -7,24 +7,24 @@
         {
           "name": "Biological Sci",
           "children": [
-            { "name": "Medical Sci", "value": 120 },
-            { "name": "Life Sci", "value": 125 }
+            { "name": "Medical Sci", "value": 130 },
+            { "name": "Life Sci", "value": 115 }
           ]
         },
         {
           "name": "Physical Sci",
           "children": [
-            { "name": "Physics", "value": 100 },
-            { "name": "Chemistry", "value": 105 },
-            { "name": "Earth Sci", "value": 95 }
+            { "name": "Physics", "value": 90 },
+            { "name": "Chemistry", "value": 110 },
+            { "name": "Earth Sci", "value": 100 }
           ]
         },
         {
           "name": "Math & CS",
           "children": [
-            { "name": "Mathematics", "value": 90 },
-            { "name": "Computer Sci", "value": 115 },
-            { "name": "Statistics", "value": 110 }
+            { "name": "Mathematics", "value": 100 },
+            { "name": "Computer Sci", "value": 100 },
+            { "name": "Statistics", "value": 140 }
           ]
         }
       ]
@@ -35,18 +35,18 @@
         {
           "name": "Administration",
           "children": [
-            { "name": "Management", "value": 80 },
-            { "name": "Marketing", "value": 70 }
+            { "name": "Management", "value": 90 },
+            { "name": "Marketing", "value": 60 }
           ]
         },
         {
           "name": "Finance & Accounting",
           "children": [
-            { "name": "Finance", "value": 85 },
-            { "name": "Accounting", "value": 75 }
+            { "name": "Finance", "value": 95 },
+            { "name": "Accounting", "value": 65 }
           ]
         },
-        { "name": "Commerce", "value": 60 }
+        { "name": "Commerce", "value": 70 }
       ]
     },
     {
@@ -55,19 +55,19 @@
         {
           "name": "Fine Arts",
           "children": [
-            { "name": "Painting", "value": 55 },
-            { "name": "Sculpture", "value": 40 }
+            { "name": "Painting", "value": 35 },
+            { "name": "Sculpture", "value": 60 }
           ]
         },
         {
           "name": "Performing",
           "children": [
-            { "name": "Theater", "value": 40 },
-            { "name": "Dance", "value": 45 },
+            { "name": "Theater", "value": 50 },
+            { "name": "Dance", "value": 35 },
             { "name": "Music", "value": 30 }
           ]
         },
-        { "name": "Literature", "value": 65 }
+        { "name": "Literature", "value": 60 }
       ]
     }
   ]
