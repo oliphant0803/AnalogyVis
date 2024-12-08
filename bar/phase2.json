@@ -1,31 +1,26 @@
 [
-    {
-      "Building Name": "Zenith Tower",
-      "Height (meters)": 263
-    },
-    {
-      "Building Name": "Horizon Plaza",
-      "Height (meters)": 191
-    },
-    {
-      "Building Name": "Pinnacle Heights",
-      "Height (meters)": 417
-    },
-    {
-      "Building Name": "Apex Tower",
-      "Height (meters)": 254
-    },
-    {
-      "Building Name": "Summit Place",
-      "Height (meters)": 137
-    },
-    {
-      "Building Name": "Vista Building",
-      "Height (meters)": 202
-    },
-    {
-      "Building Name": "Skyline Tower",
-      "Height (meters)": 0
-    }
-  ]
-  
+  {
+    "Building Name": "Zenith Tower",
+    "Height (meters)": 265
+  },
+  {
+    "Building Name": "Horizon Plaza",
+    "Height (meters)": 123
+  },
+  {
+    "Building Name": "Pinnacle Heights",
+    "Height (meters)": 350
+  },
+  {
+    "Building Name": "Apex Tower",
+    "Height (meters)": 279
+  },
+  {
+    "Building Name": "Summit Place",
+    "Height (meters)": 148
+  },
+  {
+    "Building Name": "Vista Building",
+    "Height (meters)": 213
+  }
+]
