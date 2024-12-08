@@ -1,10 +1,12 @@
 [
-    {"Event": "Starting Point", "Effect": 0, "CumulativeRevenue": 0},
-    {"Event": "Mushroom Boost 1", "Effect": 10, "CumulativeRevenue": 10},
-    {"Event": "Goomba Attack 1", "Effect": -5, "CumulativeRevenue": 5},
-    {"Event": "Coin Bonus", "Effect": 15, "CumulativeRevenue": 20},
-    {"Event": "Mushroom Boost 2", "Effect": 5, "CumulativeRevenue": 25},
-    {"Event": "Piranha Plant", "Effect": -10, "CumulativeRevenue": 15},
-    {"Event": "Goomba Attack 2", "Effect": -3, "CumulativeRevenue": 12},
-    {"Event": "Final Height", "Effect": 2, "CumulativeRevenue": 14}
-  ]
+  {"Event": "Starting Point", "Effect": 0, "CumulativeRevenue": 0},
+  {"Event": "Mushroom Boost 1", "Effect": 5, "CumulativeRevenue": 5},
+  {"Event": "Coin Bonus", "Effect": 15, "CumulativeRevenue": 20},
+  {"Event": "Goomba Attack 1", "Effect": -5, "CumulativeRevenue": 15},
+  {"Event": "Piranha Plant", "Effect": -8, "CumulativeRevenue": 7},
+  {"Event": "Mushroom Boost 2", "Effect": 7, "CumulativeRevenue": 14},
+  {"Event": "Goomba Attack 2", "Effect": -3, "CumulativeRevenue": 11},
+  {"Event": "Final Height", "Effect": 5, "CumulativeRevenue": 16},
+  {"Event": "Penalty", "Effect": 0, "CumulativeRevenue": 16},
+  {"Event": "Bonus", "Effect": 0, "CumulativeRevenue": 16}
+]
