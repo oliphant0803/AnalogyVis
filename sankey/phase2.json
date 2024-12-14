@@ -16,27 +16,28 @@
         {"name": "Summerville"}
     ],
     "links": [
-        {"source": "Alton", "target": "Charleston", "value": 300},
-        {"source": "Alton", "target": "Denton", "value": 200},
-        {"source": "Benton", "target": "Charleston", "value": 250},
-        {"source": "Benton", "target": "Easton", "value": 150},
-        {"source": "Xville", "target": "Denton", "value": 150},
-        {"source": "Xville", "target": "Easton", "value": 100},
+        {"source": "Alton", "target": "Charleston", "value": 10},
+        {"source": "Alton", "target": "Denton", "value": 5},
+        {"source": "Benton", "target": "Charleston", "value": 8},
+        {"source": "Benton", "target": "Easton", "value": 7},
+        {"source": "Xville", "target": "Denton", "value": 6},
+        {"source": "Xville", "target": "Easton", "value": 4},
         
-        {"source": "Charleston", "target": "Greenville", "value": 400},
-        {"source": "Charleston", "target": "Hamilton", "value": 150},
-        {"source": "Denton", "target": "Hamilton", "value": 250},
-        {"source": "Denton", "target": "Irvington", "value": 100},
-        {"source": "Easton", "target": "Greenville", "value": 200},
-        {"source": "Easton", "target": "Irvington", "value": 50},
+        {"source": "Charleston", "target": "Greenville", "value": 9},
+        {"source": "Charleston", "target": "Hamilton", "value": 5},
+        {"source": "Denton", "target": "Hamilton", "value": 5},
+        {"source": "Denton", "target": "Irvington", "value": 4},
+        {"source": "Easton", "target": "Greenville", "value": 7},
+        {"source": "Easton", "target": "Irvington", "value": 3},
         
-        {"source": "Greenville", "target": "Jacksonville", "value": 300},
-        {"source": "Greenville", "target": "Kingston", "value": 100},
-        {"source": "Hamilton", "target": "Kingston", "value": 250},
-        {"source": "Irvington", "target": "Preston", "value": 100},
-        {"source": "Kingston", "target": "Preston", "value": 200},
-        {"source": "Jacksonville", "target": "Quinton", "value": 300},
-        {"source": "Preston", "target": "Quinton", "value": 100},
-        {"source": "Preston", "target": "Summerville", "value": 150}
+        {"source": "Greenville", "target": "Jacksonville", "value": 8},
+        {"source": "Greenville", "target": "Kingston", "value": 6},
+        {"source": "Hamilton", "target": "Kingston", "value": 7},
+        {"source": "Irvington", "target": "Preston", "value": 5},
+        {"source": "Kingston", "target": "Preston", "value": 6},
+        
+        {"source": "Jacksonville", "target": "Quinton", "value": 8},
+        {"source": "Preston", "target": "Quinton", "value": 7},
+        {"source": "Preston", "target": "Summerville", "value": 5}
     ]
 }
