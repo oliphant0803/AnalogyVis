@@ -9,11 +9,10 @@ chart_folder_mapping = {
     'heatmap': ['HeatmapActual', 'HeatmapAnalogy'],
     'sunburst': ['Sunburst Draw', 'SunburstAnalogy'],
     'histogram': ['HistogramActual', 'HistogramAnalogy'],
-    'treemap': ['TreemapActual', 'TreemapAnalogy'],
     'bubble': ['BubbleActual', 'BubbleAnalogy'],
     'waterfall': ['WaterfallActual', 'WaterfallAnalogy'],
     'butterfly': ['ButterflyActual', 'ButterflyAnalogy'],
-    'sankey': ['Sankey Draw', 'SankeyAnalogy'],
+    'stackedArea': ['StackedAreaBaseline', 'StackedAreaAnalogy']
 }
 
 # Overlay function
@@ -35,7 +34,7 @@ def overlay_images(chart_background_url, annotation_image_path, output_image_pat
         annotation = Image.open(annotation_image_path).convert("RGBA")
         
         # Resize the annotation image to match the chart's dimensions
-        annotation = annotation.resize(chart.size, Image.ANTIALIAS)
+        annotation = annotation.resize(chart.size, Image.Resampling.LANCZOS)
         
         # Composite the annotation onto the chart
         composite = Image.alpha_composite(chart, annotation)
@@ -53,15 +52,13 @@ filtered_pilot_csv = "/Users/h2o/Documents/Projects/AnalogyVis/analysis/filtered
 output_dir = "/Users/h2o/Documents/Projects/AnalogyVis/analysis/annotations"
 #charts for tasks:
 background_charts = {
-    "stackedArea": ["https://raw.githubusercontent.com/oliphant0803/AnalogyVis/refs/heads/main/analogyCharts/stackedArea/actual.png, https://raw.githubusercontent.com/oliphant0803/AnalogyVis/refs/heads/main/analogyCharts/stackedArea/StackedArea.png"],
+    "stackedArea": ["https://raw.githubusercontent.com/oliphant0803/AnalogyVis/refs/heads/main/analogyCharts/stackedArea/actual.png", "https://raw.githubusercontent.com/oliphant0803/AnalogyVis/refs/heads/main/analogyCharts/stackedArea/StackedArea.png"],
     "waterfall": ["https://raw.githubusercontent.com/oliphant0803/AnalogyVis/refs/heads/main/analogyCharts/waterfall/actualTask.png", "https://raw.githubusercontent.com/oliphant0803/AnalogyVis/refs/heads/main/analogyCharts/waterfall/WaterfallTask.png"],
-    "butterfly": ["https://raw.githubusercontent.com/oliphant0803/AnalogyVis/refs/heads/main/analogyCharts/butterfly/Screenshot%202024-11-27%20at%207.16.59%20PM.png","https://github.com/oliphant0803/AnalogyVis/blob/main/analogyCharts/butterfly/ButterflyTask.png?raw=true"],
+    "butterfly": ["https://github.com/oliphant0803/AnalogyVis/blob/main/analogyCharts/butterfly/actualTask.png?raw=true","https://github.com/oliphant0803/AnalogyVis/blob/main/analogyCharts/butterfly/ButterflyTask.png?raw=true"],
     "bubble": ["https://github.com/oliphant0803/AnalogyVis/blob/main/analogyCharts/bubble/Scatter.png?raw=true", "https://raw.githubusercontent.com/oliphant0803/AnalogyVis/refs/heads/main/analogyCharts/bubble/actual.png"],
     "histogram": ["https://raw.githubusercontent.com/oliphant0803/AnalogyVis/refs/heads/main/analogyCharts/histogram/actual.png", "https://raw.githubusercontent.com/oliphant0803/AnalogyVis/refs/heads/main/analogyCharts/histogram/histogram.png"],
-    "treemap": ["https://raw.githubusercontent.com/oliphant0803/AnalogyVis/refs/heads/main/analogyCharts/treemap/actual.png", "https://github.com/oliphant0803/AnalogyVis/blob/main/analogyCharts/treemap/Treemap.png?raw=true"],
     "bar": ["https://raw.githubusercontent.com/oliphant0803/AnalogyVis/refs/heads/main/analogyCharts/bar/actualTask.png","https://raw.githubusercontent.com/oliphant0803/AnalogyVis/refs/heads/main/analogyCharts/bar/Bar_Graph_Analogy_Task%202.png"],
     "heatmap": ["https://raw.githubusercontent.com/oliphant0803/AnalogyVis/refs/heads/main/analogyCharts/heatmap/actual.png", "https://github.com/oliphant0803/AnalogyVis/blob/main/analogyCharts/heatmap/heatmap.png?raw=true"],
-    "sankey": ["https://raw.githubusercontent.com/oliphant0803/AnalogyVis/refs/heads/main/analogyCharts/sankey/actual.png", "https://github.com/oliphant0803/AnalogyVis/blob/main/analogyCharts/sankey/SankeyTask.png?raw=true"],
     "sunburst": ["https://github.com/oliphant0803/AnalogyVis/blob/main/analogyCharts/sunburst/ActualTask.png?raw=true","https://github.com/oliphant0803/AnalogyVis/blob/main/analogyCharts/sunburst/SunburstTask.png?raw=true"]
 }
 
@@ -91,6 +88,7 @@ for chart_type, backgrounds in background_charts.items():
         analogy_output = os.path.join(chart_output_dir, f"{os.path.basename(analogy_path)}_analogy_composite.png")
         
         # Apply the overlay function
+        print(f"Processing row {index} for chart type: {chart_type}")
         actual_overlay_path = overlay_images(backgrounds[0], actual_path, actual_output)  # Actual chart
         analogy_overlay_path = overlay_images(backgrounds[1], analogy_path, analogy_output)  # Analogy chart
         

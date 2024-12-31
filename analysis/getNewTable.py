@@ -3,7 +3,7 @@ import re
 
 def main():
     # Read the original CSV data
-    data = pd.read_csv('41.csv')
+    data = pd.read_csv('76.csv')
 
     # Get the list of all column names
     cols = data.columns.tolist()

@@ -3,7 +3,7 @@ import os
 import re
 
 # Define the input and output file paths
-input_file = './pilot.csv'
+input_file = './46.csv'
 output_file = 'filtered_pilot.csv'
 
 # Define the columns we want to extract
@@ -43,7 +43,7 @@ input_file = 'filtered_pilot.csv'
 output_file = 'filtered_pilot.csv'
 
 # Define the sketches base directory
-sketches_dir = '/Users/h2o/Desktop/pilotSketches'
+sketches_dir = '/Users/h2o/Desktop/46Sketch'
 
 # Define the chart type to folder mapping (chart type keywords)
 chart_folder_mapping = {
@@ -51,11 +51,10 @@ chart_folder_mapping = {
     'heatmap': ['HeatmapActual', 'HeatmapAnalogy'],
     'sunburst': ['Sunburst Draw', 'SunburstAnalogy'],
     'histogram': ['HistogramActual', 'HistogramAnalogy'],
-    'treemap': ['TreemapActual', 'TreemapAnalogy'],
     'bubble': ['BubbleActual', 'BubbleAnalogy'],
     'waterfall': ['WaterfallActual', 'WaterfallAnalogy'],
     'butterfly': ['ButterflyActual', 'ButterflyAnalogy'],
-    'sankey': ['Sankey Draw', 'SankeyAnalogy'],
+    'stackedArea': ['StackedAreaBaseline', 'StackedAreaAnalogy']
 }
 
 
@@ -95,9 +94,9 @@ with open(input_file, mode='r', newline='', encoding='utf-8') as infile:
             row['actual'] = actual_path if os.path.exists(actual_path) else None
             row['analogy'] = analogy_path if os.path.exists(analogy_path) else None
             
-            if(analogy_folder == "WaterfallAnalogy"):
+            if((analogy_folder == "WaterfallAnalogy")):
                 if row['analogy'] == None:
-                    row['analogy'] = os.path.join(sketches_dir, "WaterfallAnalogy", f"{response_id}_signature.png")
+                    row['analogy'] = os.path.join(sketches_dir, "WaterfallAnalogy%C2%A0", f"{response_id}_signature.png")
         else:
             row['actual'] = None
             row['analogy'] = None
@@ -132,9 +131,7 @@ background_charts = {
     "butterfly": ["https://raw.githubusercontent.com/oliphant0803/AnalogyVis/refs/heads/main/analogyCharts/butterfly/actualTask.png","https://github.com/oliphant0803/AnalogyVis/blob/main/analogyCharts/butterfly/ButterflyTask.png?raw=true"],
     "bubble": ["https://github.com/oliphant0803/AnalogyVis/blob/main/analogyCharts/bubble/Scatter.png?raw=true", "https://raw.githubusercontent.com/oliphant0803/AnalogyVis/refs/heads/main/analogyCharts/bubble/actual.png"],
     "histogram": ["https://raw.githubusercontent.com/oliphant0803/AnalogyVis/refs/heads/main/analogyCharts/histogram/actual.png", "https://raw.githubusercontent.com/oliphant0803/AnalogyVis/refs/heads/main/analogyCharts/histogram/Histogram_Grade_Analogy%202.png"],
-    "treemap": ["https://raw.githubusercontent.com/oliphant0803/AnalogyVis/refs/heads/main/analogyCharts/treemap/actual.png", "https://github.com/oliphant0803/AnalogyVis/blob/main/analogyCharts/treemap/Treemap.png?raw=true"],
     "bar": ["https://raw.githubusercontent.com/oliphant0803/AnalogyVis/refs/heads/main/analogyCharts/bar/actualTask.png","https://raw.githubusercontent.com/oliphant0803/AnalogyVis/refs/heads/main/analogyCharts/bar/Bar_Graph_Analogy_Task%202.png"],
     "heatmap": ["https://raw.githubusercontent.com/oliphant0803/AnalogyVis/refs/heads/main/analogyCharts/heatmap/actual.png", "https://github.com/oliphant0803/AnalogyVis/blob/main/analogyCharts/heatmap/heatmap.png?raw=true"],
-    "sankey": ["https://raw.githubusercontent.com/oliphant0803/AnalogyVis/refs/heads/main/analogyCharts/sankey/actual.png", "https://github.com/oliphant0803/AnalogyVis/blob/main/analogyCharts/sankey/SankeyTask.png?raw=true"],
     "sunburst": ["https://github.com/oliphant0803/AnalogyVis/blob/main/analogyCharts/sunburst/ActualTask.png?raw=true","https://github.com/oliphant0803/AnalogyVis/blob/main/analogyCharts/sunburst/SunburstTask.png?raw=true"]
 }
